@@ -1,0 +1,2 @@
+stop_id,stop_name,stop_desc,zone_id,stop_lat,stop_lon
+137	,"GALTZARABORDA-ERRENTERIA","","5",43.3123862,-1.9060603

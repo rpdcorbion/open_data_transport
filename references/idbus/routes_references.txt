@@ -1,0 +1,35 @@
+route_id,agency_id,route_short_name,route_long_name,route_type,route_url,route_color,route_text_color
+1,1,Paris - Le Havre,Paris Bercy (centre ville) - Le Havre,3,http://www.ouibus.com/lines?utm_source=gtfs&utm_medium=link_line&utm_campaign=gtfs,e4006c,ffffff
+2,1,Paris - Nantes,Paris Bercy (centre ville) - Nantes,3,http://www.ouibus.com/lines?utm_source=gtfs&utm_medium=link_line&utm_campaign=gtfs,e4006c,ffffff
+3,1,Paris - Rennes,Paris Bercy (centre ville) - Rennes,3,http://www.ouibus.com/lines?utm_source=gtfs&utm_medium=link_line&utm_campaign=gtfs,e4006c,ffffff
+4,1,Paris - Strasbourg,Paris Bercy (centre ville) - Strasbourg,3,http://www.ouibus.com/lines?utm_source=gtfs&utm_medium=link_line&utm_campaign=gtfs,e4006c,ffffff
+5,1,Paris - Bordeaux,Paris Bercy (centre ville) - Bordeaux,3,http://www.ouibus.com/lines?utm_source=gtfs&utm_medium=link_line&utm_campaign=gtfs,e4006c,ffffff
+6,1,Paris - Clermont-Ferrand,Clermont-Ferrand - Paris La Défense,3,http://www.ouibus.com/lines?utm_source=gtfs&utm_medium=link_line&utm_campaign=gtfs,e4006c,ffffff
+7,1,Paris - Amsterdam,Paris Bercy (centre ville) - Amsterdam,3,http://www.ouibus.com/line/paris-bercy-amsterdam?utm_source=gtfs&utm_medium=link_line&utm_campaign=gtfs,e4006c,ffffff
+8,1,Paris - Lyon,Lyon - Paris La Défense,3,http://www.ouibus.com/lines?utm_source=gtfs&utm_medium=link_line&utm_campaign=gtfs,e4006c,ffffff
+9,1,Lyon - Barcelone,Barcelona - Lyon,3,http://www.ouibus.com/line/lyon-barcelona?utm_source=gtfs&utm_medium=link_line&utm_campaign=gtfs,e4006c,ffffff
+10,1,Marseille - Milan,Milano - Marseille,3,http://www.ouibus.com/line/marseille-milan?utm_source=gtfs&utm_medium=link_line&utm_campaign=gtfs,e4006c,ffffff
+11,1,Paris - Lyon,Paris Bercy (centre ville) - Lyon,3,http://www.ouibus.com/lines?utm_source=gtfs&utm_medium=link_line&utm_campaign=gtfs,e4006c,ffffff
+12,1,Lyon - Londres,Lyon - London,3,http://www.ouibus.com/line/lyon-london?utm_source=gtfs&utm_medium=link_line&utm_campaign=gtfs,e4006c,ffffff
+13,1,Paris - Milan,Paris Bercy (centre ville) - Milano,3,http://www.ouibus.com/line/paris-bercy-milan?utm_source=gtfs&utm_medium=link_line&utm_campaign=gtfs,e4006c,ffffff
+14,1,Paris Barcelone,Paris Bercy (centre ville) - Barcelona,3,http://www.ouibus.com/line/paris-bercy-barcelona?utm_source=gtfs&utm_medium=link_line&utm_campaign=gtfs,e4006c,ffffff
+15,1,Paris - Marseille,Paris Bercy (centre ville) - Marseille,3,http://www.ouibus.com/lines?utm_source=gtfs&utm_medium=link_line&utm_campaign=gtfs,e4006c,ffffff
+16,1,Paris - Grenoble,Paris Bercy (centre ville) - Grenoble,3,http://www.ouibus.com/lines?utm_source=gtfs&utm_medium=link_line&utm_campaign=gtfs,e4006c,ffffff
+18,1,Toulouse - Barcelone,Barcelona - Toulouse,3,http://www.ouibus.com/line/toulouse-barcelona?utm_source=gtfs&utm_medium=link_line&utm_campaign=gtfs,e4006c,ffffff
+19,1,Paris - Dunkerque,Paris Bercy (centre ville) - Dunkerque,3,http://www.ouibus.com/lines?utm_source=gtfs&utm_medium=link_line&utm_campaign=gtfs,e4006c,ffffff
+20,1,Paris - Brest,Brest - Paris La Défense,3,http://www.ouibus.com/lines?utm_source=gtfs&utm_medium=link_line&utm_campaign=gtfs,e4006c,ffffff
+21,1,Paris - Nantes,Nantes - Paris La Défense,3,http://www.ouibus.com/lines?utm_source=gtfs&utm_medium=link_line&utm_campaign=gtfs,e4006c,ffffff
+22,1,Paris - Caen,Caen - Paris La Défense,3,http://www.ouibus.com/lines?utm_source=gtfs&utm_medium=link_line&utm_campaign=gtfs,e4006c,ffffff
+23,1,Paris - Toulouse,Paris Bercy (centre ville) - Toulouse,3,http://www.ouibus.com/lines?utm_source=gtfs&utm_medium=link_line&utm_campaign=gtfs,e4006c,ffffff
+24,1,Montpellier - Barcelone,Barcelona - Montpellier,3,http://www.ouibus.com/line/barcelona-montpellier?utm_source=gtfs&utm_medium=link_line&utm_campaign=gtfs,e4006c,ffffff
+25,1,Lyon - Nice,Nice - Lyon,3,http://www.ouibus.com/lines?utm_source=gtfs&utm_medium=link_line&utm_campaign=gtfs,e4006c,ffffff
+26,1,Paris - Lille,Lille - Paris La Défense,3,http://www.ouibus.com/lines?utm_source=gtfs&utm_medium=link_line&utm_campaign=gtfs,e4006c,ffffff
+27,1,Paris - Lille,Paris Bercy (centre ville) - Lille,3,http://www.ouibus.com/lines?utm_source=gtfs&utm_medium=link_line&utm_campaign=gtfs,e4006c,ffffff
+28,1,Paris - Londres,Paris Bercy (centre ville) - London,3,http://www.ouibus.com/line/paris-bercy-london?utm_source=gtfs&utm_medium=link_line&utm_campaign=gtfs,e4006c,ffffff
+29,1,Paris - Bruxelles,Paris Bercy (centre ville) - Bruxelles,3,http://www.ouibus.com/line/paris-bercy-brussels?utm_source=gtfs&utm_medium=link_line&utm_campaign=gtfs,e4006c,ffffff
+31,1,Londres - Amsterdam,Amsterdam - London,3,http://www.ouibus.com/line/london-amsterdam?utm_source=gtfs&utm_medium=link_line&utm_campaign=gtfs,e4006c,ffffff
+32,1,Marseille - Barcelone,Barcelona - Marseille,3,http://www.ouibus.com/line/marseille-barcelona?utm_source=gtfs&utm_medium=link_line&utm_campaign=gtfs,e4006c,ffffff
+34,1,Paris - Clermont-Ferrand,Paris Bercy (centre ville) - Clermont-Ferrand,3,http://www.ouibus.com/lines?utm_source=gtfs&utm_medium=link_line&utm_campaign=gtfs,e4006c,ffffff
+35,1,Paris - Brest,Paris Bercy (centre ville) - Brest,3,http://www.ouibus.com/lines?utm_source=gtfs&utm_medium=link_line&utm_campaign=gtfs,e4006c,ffffff
+36,1,Bordeaux - Marseille,Marseille - Bordeaux,3,http://www.ouibus.com/lines?utm_source=gtfs&utm_medium=link_line&utm_campaign=gtfs,e4006c,ffffff
+37,1,Paris - Bordeaux,Bordeaux - Paris La Défense,3,http://www.ouibus.com/lines?utm_source=gtfs&utm_medium=link_line&utm_campaign=gtfs,e4006c,ffffff

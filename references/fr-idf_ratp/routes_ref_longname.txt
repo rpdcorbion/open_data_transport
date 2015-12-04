@@ -1,0 +1,428 @@
+1;Château de Vincennes - La Défense
+2;Nation - Porte Dauphine
+3;Gallieni - Pont de Levallois-Bécon
+3B;Porte des Lilas - Gambetta
+4;Porte de Clignancourt - Mairie de Montrouge
+5;Bobigny-Pablo-Picasso - Place d'Italie
+6; Nation - Charles de Gaulle-Etoile
+7;La Courneuve-8-Mai-1945 - Villejuif-Aragon / Mairie d'Ivry
+7B;Pré-Saint-Gervais - Louis Blanc
+8;Balard - Créteil-Pointe du Lac
+9;Pont de Sèvres - Mairie de Montreuil
+10;Boulogne Pont de Saint-Cloud - Gare d'Austerlitz
+11;Mairie des Lilas - Châtelet
+12;Mairie d'Issy - Front Populaire
+13;Châtillon Montrouge - Saint-Denis-Université
+14;Saint-Lazare - Olympiade
+T1;Noisy-le-Sec - Asnieres-Gennevilliers Les Courtilles
+T2;Pont de Bezons - Porte de Versailles
+T3;Pont Garigliano Hôpital G. Pompidou - Porte de Vincennes
+T3b;Porte de Vincennes - Porte de la Chapelle
+T5;Garges-Sarcelles - Marché de Saint-Denis
+T6;Châtillon Montrouge - Robert Wagner
+T7;Porte de l'Essonne - Villejuif Louis Aragon
+T8;Saint-Denis Porte de Paris - Villetaneuse-Université
+Bb;Gare de Lyon - La Défense Grande Arche [Balabus]
+Montmartrobus;Pigalle - Mairie du XVIIIè [Montmartrobus]
+PC1;Porte de Champerret - Pont du Garigliano
+PC2;Porte d'Ivry - Porte de la Villette
+PC3;Porte Maillot - Porte de la Villette
+20;Gare St-Lazare - Gare de Lyon
+21;Gare St-Lazare - Stade Charléty
+22;Opéra - Porte de St-Cloud
+24;Gare St-Lazare - Maubert-Mutualité - Gare d'Austerlitz - Ecole Vétérinaire de Maisons-Alfort
+26;Gare St-Lazare - Nation Place des Antilles
+27;Gare St-Lazare - Porte d'Ivry Claude Regaud
+28;Gare St-Lazare - Porte d'Orléans
+29;Gare St-Lazare - Porte de Montempoivre
+30;Gare de l'Est - Trocadéro
+31;Gare de l'Est - Charles de Gaulle-Etoile
+32;Gare de l'Est - Porte d'Auteuil
+35;Gare de l'Est - Mairie d'Aubervilliers
+38;Gare du Nord - Porte d'Orléans
+39;Gare du Nord - Issy Frères Voisin
+42;Gare du Nord - Hôpital Européen Georges Pompidou
+43;Gare du Nord - Neuilly Bagatelle
+46;Gare du Nord - Château de Vincennes
+47;Gare de l'Est - Le Kremlin-Bicêtre Fort de Bicêtre
+48;Palais-Royal - Porte des Lilas
+52;Opéra - Charles de Gaulle-Etoile - Porte d'Auteuil - Parc de St-Cloud
+53;Opéra - Pont de Levallois
+54;Porte d'Aubervilliers - Gabriel Péri
+56;Porte de Clignancourt - Château de Vincennes
+57;Porte de Bagnolet Louis Ganne - Laplace
+58;Châtelet - Vanves Lycée Michelet
+60;Gambetta - Porte de Montmartre
+61;Gare d'Austerlitz - Eglise de Pantin
+62;Bibliothèque François Mitterrand - Porte de St-Cloud
+63;Gare de Lyon - Porte de la Muette
+64;Gambetta - Place d'Italie
+65;Gare de Lyon - Mairie d'Aubervilliers
+66;Opéra - Clichy Victor Hugo
+67;Pigalle - Châtelet-Hôtel de Ville - Stade Charléty
+68;Place de Clichy - Châtillon-Montrouge
+69;Gambetta - Champ de Mars
+70;Hôtel de Ville - Radio-France
+72;Hôtel de Ville - Parc de St-Cloud
+73;Musée d'Orsay - La Garenne-Colombes Place de Belgique
+74;Hôtel de Ville - Porte de Clichy - Clichy Berges de Seine
+75;Pont Neuf - Porte de Pantin
+76;Louvre-Rivoli - Bagnolet Louise Michel
+80;Mairie du XVIIIè - Porte de Versailles
+81;Châtelet - Porte de St-Ouen
+82;Luxembourg - Neuilly Hôpital Américain
+83;Friedland-Haussmann - Porte d'Ivry Claude Régaud
+84;Panthéon - Porte de Champerret
+85;Luxembourg - Mairie du XVIIIè - Mairie de St-Ouen
+86;St-Germain-des-Prés - St-Mandé Demi-Lune
+87;Champ de Mars - Bastille - Porte de Reuilly
+88;Montsouris-Tombe Issoire - Hôpital Européen Georges Pompidou
+89;Bibliothèque François Mitterrand - Gare de Vanves-Malakoff
+91;Montparnasse 2 Gare TGV - Bastille
+92;Gare Montparnasse - Porte de Champerret
+93;Invalides - Suresnes de Gaulle
+94;Gare Montparnasse - Gare St-Lazare - Levallois Louison Bobet
+95;Porte de Vanves - Porte de Montmartre
+96;Gare Montparnasse - Porte des Lilas
+ORLYBUS;Denfert-Rochereau - Aéroport d'Orly
+ROISSYBUS;Opéra - Aéroport CDG Roissypôle
+ORLYVAL;Antony - Aéroport d'Orly
+101;Joinville-le-Pont - Champigny Camping International
+102;Gambetta - Rosny-Bois Perrier
+103;Ecole Vétérinaire de Maisons-Alfort - Rungis Marché International
+104;Ecole Vétérinaire de Maisons-Alfort - Bonneuil Place des Libertés
+105;Porte des Lilas - Mairie des Pavillons-sous-Bois
+106;Joinville-le-Pont - Villiers-sur-Marne-Le-Plessis-Trévise
+107;Ecole Vétérinaire de Maisons-Alfort - St-Maur-Créteil - St-Maur La Pie
+108;Joinville-le-Pont - Champigny Jeanne Vacher
+109;Terroirs de France - Charenton Pont Nelson Mandela
+110;Joinville-le-Pont - Villiers-sur-Marne-Le-Plessis-Trévise
+111;Terroirs de France - St-Maur Corneilles - La Varenne-Chennevières - Champigny
+112;Château de Vincennes - La Varenne-Chennevières
+113;Nogent-sur-Marne - Mairie de Chelles - Chelles 2 Centre Commercial
+114;Château de Vincennes - Le Raincy-Villemomble-Montfermeil - Villemomble Les Coquetiers
+115;Porte des Lilas - Mairie de Montreuil - Château de Vincennes
+116;Rosny-Bois Perrier - Eglise de Rosny-sous-Bois - Champigny
+117;Créteil Préfecture du Val-de-Marne - Champigny
+118;Château de Vincennes - Eglise de Rosny-sous-Bois
+119;Massy-Palaiseau - Les Baconnets
+120;Nogent-sur-Marne - Bry-sur-Marne Hôpital St-Camille - Noisy-le-Grand Mont d'Est - Mairie de Noisy-le-Grand
+121;Mairie de Montreuil - Château de Villemomble - Villemomble Lycée Clémenceau
+122;Galliéni - Val de Fontenay
+123;Porte d'Auteuil - Mairie d'Issy
+124;Château de Vincennes - Val de Fontenay
+125;Porte d'Orléans - Ecole Vétérinaire de Maisons-Alfort
+126;Porte d'Orléans - Parc de St-Cloud
+127;Croix de Chavaux - Neuilly-sur-Marne Île-de-France
+128;Porte d'Orléans - Bagneux Dampierre - Robinson
+129;Porte des Lilas - Mairie de Montreuil
+131;Porte d'Italie - L'Haÿ-les-Roses Les Dahlias - Rungis-La Fraternelle
+132;Bibliothèque François Mitterrand - Vitry-sur-Seine Cité du Moulin Vert
+133;Sarcelles Bois d'Ecouen - Gare de Sarcelles-St-Brice - Le Bourget
+134;Fort d'Aubervilliers - Bondy Jouhaux-Blum
+137;Porte de Clignancourt - Villeneuve-la-Garenne Z.I. Nord
+138;Porte de Clichy - Ermont-Eaubonne
+139;Porte de la Villette - La Plaine Stade de France - Carrefour Pleyel - St-Ouen
+140;Gabriel Péri - Gare d'Argenteuil
+141;La Défense Grande Arche - Lycée de Rueil-Malmaison
+143;La Courneuve-Aubervilliers - Drancy Lycée Delacroix - Rosny-sous-Bois
+144;La Défense Grande Arche - Rueil-Malmaison
+145;Eglise de Pantin - Cimetière de Villemomble
+146;Le Bourget - Montfermeil Les Bosquets
+147;Eglise de Pantin - Sevran Avenue Ronsard
+148;Bobigny Pablo Picasso - Le Blanc-Mesnil Musée de l'Air / Aulnay-sous-Bois Garonor
+150;Porte de la Villette - Pierrefitte-Stains
+151;Porte de Pantin - Bondy Jouhaux-Blum
+152;Porte de la Villette - Le Blanc-Mesnil ZA du Pont Yblon - Gonesse ZAC des Tulipes
+153;Porte de la Chapelle - Stains Moulin Neuf
+154;St-Denis Porte de Paris - Gare d'Enghien-les-Bains
+156;St-Denis - Gare d'Epinay-Villetaneuse
+157;Pont de Neuilly - Nanterre-Ville - Nanterre Boulevard de Seine
+158;Pont de Neuilly - Rueil-Malmaison
+159;La Défense Grande Arche - Nanterre Cité du Vieux Pont
+160;Nanterre-Préfecture - Pont de Sèvres
+161;La Défense Grande Arche - Gare d'Argenteuil
+162;Meudon Val Fleury - Villejuif Louis Aragon
+163;Porte de Champerret - Bezons Grand Cerf
+164;Porte de Champerret - Argenteuil Collège Claude Monet
+165;Porte de Champerret - Asnières Robert Lavergne
+166;Porte de Clignancourt - Colombes Audra
+167;Pont de Levallois - Nanterre-Ville
+168;St-Denis Porte de Paris - Barrage de Pierrefitte / Garges-Sarcelles / Villetaneuse Cimetière des Joncherolles
+169;Pont de Sèvres - Hôpital Européen Georges Pompidou
+170;Porte des Lilas - St-Denis
+171;Pont de Sèvres - Gare de Chaville R.D. / Gare de Chaville R.G. / Château de Versailles
+172;Bourg-la-Reine - Créteil l'Echat Parking
+173;Porte de Clichy - La Courneuve 8 Mai 1945
+174;La Défense Grande Arche - St-Ouen
+175;Porte de St-Cloud - Gabriel Péri
+176;Pont de Neuilly - Colombes Petit Gennevilliers
+177;Gabriel Péri - Villeneuve-la-Garenne ZI Nord
+178;La Défense Grande Arche - Villeneuve-la-Garenne Place Paul Herbé
+179;Pont de Sèvres - Robinson
+180;Villejuif Louis Aragon - Charenton Ecoles
+181;Ecole Vétérinaire de Maisons-Alfort - Créteil La Gaîté
+182;Mairie d'Ivry - Choisy-le-Roi Pont de Choisy - Villeneuve-Triage
+183;Porte de Choisy - Mairie d'Orly - Aéroport d'Orly-Sud
+184;Porte d'Italie - Fresnes Pasteur
+185;Porte d'Italie - Rungis Marché International - Rungis MIN Marée
+186;Porte d'Italie - Fresnes Rond-point Roosevelt
+187;Porte d'Orléans - Fresnes Charcot-Zola
+188;Porte d'Orléans - Bagneux Rosenberg
+189;Porte de St-Cloud - Clamart Georges Pompidou
+190;Mairie d'Issy - Clamart Cité de la Plaine - Rond-point du Petit Clamart - Vélizy 2
+191;Porte de Vanves - Malakoff Rue Etienne Dolet - Clamart Place du Garde
+192;Robinson - Rungis Marché International
+194;Porte d'Orléans - Châtenay-Malabry Lycée Polyvalent
+195;Châtillon-Montrouge - Clamart-Fontenay Division Leclerc - Robinson
+196;Antony - Massy-Palaiseau
+197;Porte d'Orléans - Massy Opéra-Théâtre
+199;Massy-Palaiseau - Saulx-les-Chartreux Collège Pablo Picasso / Longjumeau La Rocade-Lycée
+201;Joinville-le-Pont - Champigny Diderot-La Plage
+203;Neuilly-Plaisance - Neuilly-sur-Marne Cité des Bouleaux
+206;Noisy-le-Grand Mont d'Est - Le Plessis-Trévise Place Gambetta - Emerainville-Pontault-Combault
+207;Noisy-le-Grand Mont d'Est - Hôpital de la Queue-en-Brie
+208;Champigny Place de la Résistance - Champigny Saint-Maur RER
+208b;Champigny - Champigny-Chennevières Bois-l'Abbé - Le Plessis-Trévise Place Gambetta
+210;Château de Vincennes - Villiers-sur-Marne-Le-Plessis-Trévise
+211;Torcy - Chelles 2 Centre Commercial
+212;Champs-sur-Marne Pointe de Champs - Noisy-Champs Descartes - Emerainville-Pontault-Combault
+213;Chelles-Gournay - Noisy-Champs Descartes - Lognes Le Village
+214;Neuilly-Plaisance - Neuilly-sur-Marne Z.I. des Chanoux / Gagny Roger Salengro
+215;Porte de Montreuil - Vincennes République
+216;Denfert-Rochereau - Rungis Marché International
+217;Mairie d'Alfortville - Hôtel de Ville de Créteil
+220;Bry-sur-Marne - Torcy
+221;Galliéni - Gagny Pointe de Gournay
+234;Fort d'Aubervilliers - Mairie de Livry-Gargan
+235;Gabriel Péri - Colombes Europe
+237;Mairie de St-Ouen - L'Île-St-Denis Parc Départemental Collège Sisley
+238;Pont de Levallois - Asnières Mourinoux / St-Gratien
+239;Porte de la Chapelle - Basilique de St-Denis Médiathèque
+240;Gare d'Argenteuil - Gennevilliers
+241;Porte d'Auteuil - Suresnes Place de la Paix - Rueil-Malmaison
+244;Porte Maillot - Rueil-Malmaison
+247;Garonor - Stade Charles Sage
+248;Fort d'Aubervilliers - Drancy RER
+249;Porte des Lilas • Porte de la Villette - Dugny Centre-ville
+250;Fort d'Aubervilliers - Gonesse La Fontaine Cypière Z.I.
+251;Bobigny Benoît Frachon - Bobigny Pablo Picasso - Aulnay-sous-Bois
+252;Porte de la Chapelle - Garges-Sarcelles
+253;Stade de France St-Denis - Mairie de Stains
+254;St-Denis Porte de Paris - Pierrefitte-Stains - Mairie de Montmagny
+255;Porte de Clignancourt - Stains Les Prévoyants - Garges Rond-point de la Lutèce
+256;La Courneuve-Aubervilliers - Gare d'Enghien-les-Bains - Lycée d'Enghien
+258;La Défense Grande Arche - St-Germain-en-Laye
+261;Mairie de Villeneuve-la-Garenne - Eglise de Franconville
+262;La Défense Grande Arche - Maisons-Laffitte
+267;Nanterre-Université - Gare d'Argenteuil
+268;St-Denis Porte de Paris - St-Denis Université - Villiers-le-Bel-Gonesse
+269;Garges-Sarcelles - Hôtel de Ville d'Attainville
+270;Garges-Sarcelles - Villiers-le-Bel-Gonesse
+272;La Défense Grande Arche - Sartrouville De Gaulle - Sartrouville
+274;Levallois Voltaire-Villiers - St-Denis Place Jean Poulmarch
+275;La Défense Grande Arche - Hérold Mairie de Courbevoie - Pont de Levallois
+276;La Défense Grande Arche - Gabriel Péri
+278;La Défense Grande Arche - Courbevoie Europe
+279;Pont de Sèvres - Meudon-la-Forêt Europe Nord - Meudon-la-Forêt Pasteur
+281;Joinville-le-Pont - Créteil Europarc
+285;Villejuif Louis Aragon - Juvisy
+286;Villejuif Louis Aragon - Antony
+289;Porte de St-Cloud - Clamart Cité de la Plaine
+290;Issy-Val de Seine - Meudon-la-Forêt Europe Nord - Meudon-la-Forêt Pasteur
+291;Pont de Sèvres - Vélizy Europe Sud
+292;Rungis Marché International - Savigny-sur-Orge Z.A.C. Les Gâtines
+293;Villejuif-Louis Aragon - Choisy Sud
+294;Châtillon-Montrouge - Igny
+295;Porte d'Orléans - Eglise de Meudon-la-Forêt - Vélizy 2
+297;Porte d'Orléans - Antony - Longjumeau Place Charles Stéber
+299;Porte d'Orléans - Mairie de Morangis
+301;Bobigny Pablo Picasso - Val de Fontenay
+302;Gare du Nord - La Courneuve 6 Routes
+303;Bobigny Pablo Picasso - Noisy-le-Grand Mont d'Est
+304;Les Courtilles - Nanterre Place de la Boule
+306;St-Maur-Créteil - Noisy-le-Grand Mont d'Est
+308;Créteil Préfecture du Val de Marne - Villiers-sur-Marne-Le-Plessis-Trévise
+310;Noisy Champs RER - Les Yvris Noisy-le-Grand RER
+312;Chelles-Gournay - Noisy-Champs Descartes
+317;Hôtel de Ville de Créteil - Le Parc de St-Maur - Nogent-Le Perreux
+318;Château de Vincennes - Bobigny-Pantin Raymond Queneau
+319;Massy-Palaiseau - Massy Opéra-Théâtre - Rungis Marché International
+320;Noisy-le-Grand Mont d'Est - Noisy-le-Grand Mont d'Est (circulaire)
+321;Lognes - Aérodrome de Lognes - Croissy-Beaubourg Z.I. Pariest
+322;Bobigny Pablo Picasso - Mairie de Montreuil
+323;Issy-Val de Seine - Ivry-sur-Seine
+325;Bibliothèque François Mitterrand - Château de Vincennes
+333;Garges-Sarcelles - Garges L'Argentière
+334;Les Pavillons-sous-Bois Rd Pt Robert Schuman - Pont de Bondy (circulaire)
+337;Deuil-la-Barre Zone artisanale du Moutier - Pierrefitte Stains RER
+340;Gennevilliers Les Louvresses - Gabriel Péri - Clichy Hôpital Beaujon - Clichy Berges de Seine
+341;Mairie de Clichy Landy-Martre - Porte de Clignancourt
+346;Rosny 2 Nord - Le Blanc-Mesnil Place de la Libération
+347;Pont de Bondy - Avenue de Rosny - Hôtel de Ville de Montfermeil - Hôpital de Montfermeil
+348;Bondy Jouhaux-Blum - Le Blanc-Mesnil Place de la Libération
+349;Parc des Expositions - Aéroport CDG Roissypole - Route de l'Arpenteur ADP
+350;Gare de l'Est - Aéroport CDG Roissypole
+351;Nation - Aéroport CDG Roissypole
+354;Pierrefitte-Stains - Epinay-sur-Seine
+355;Sarcelles Bois d'Ecouen - Gare de Sarcelles-St-Brice - Sarcelles Sous-préfecture
+356;St-Denis Université - Deuil-la-Barre Marché des Mortefontaines
+358;Rueil Ville - Courbevoie Europe
+360;La Défense Grande Arche - Hôpital de Garches
+361;St-Denis - St-Denis Université - Gare d'Argenteuil
+363;Pont de Bezons Rive Droite - Lycée de Carrières-sur-Seine
+367;Gare de Colombes - Rueil-Malmaison
+368;Garges-Sarcelles - Garges-Sarcelles (circulaire)
+370;Villiers-le-Bel-Gonesse - Marché de St-Brice
+372;Maisons-Alfort-Alfortville - Maisons-Alfort Louis Fliche
+378;La Défense Grande Arche - Mairie de Villeneuve-la-Garenne
+379;Vélizy 2 - La Croix de Berny
+380;Vache Noire centre commercial - Villejuif Louis Aragon
+385;Juvisy - Savigny-sur-Orge Toulouse-Lautrec - Epinay-sur-Orge
+388;Châtillon-Montrouge - Bourg-la-Reine
+389;Pont de Sèvres - Meudon-la-Forêt Centre Administratif
+390;Bourg-la-Reine - Hôtel de Ville de Vélizy-Villacoublay
+391;Châtillon-Montrouge - Bagneux Pont Royal
+392;Savigny-sur-Orge ZAC Les Gâtines - Paray-Vieille-Poste Centre Commercial
+393;Villejuif Louis Aragon - Sucy-Bonneuil
+394;Issy Val de Seine - Bourg-la-Reine
+395;Antony - Clamart Georges Pompidou
+396;La Croix de Berny - Thiais Belle Epine Sud
+399;Massy-Palaiseau - Juvisy
+421;Gare de Vaires-Torcy - Emerainville-Pontault-Combault
+426;Pont de sèvres - La Celle Saint-Cloud Gare SNCF
+467;Pont de Sèvres - Rueil-Malmaison
+026;Hôtel de Ville de Boulogne-Billancourt - Gare de La Celle-St-Cloud
+27A;Rueil-Malmaison - Gare de Vaucresson
+27B;Rueil-Malmaison - Gare de La Celle-St-Cloud
+27C;Gare de La Celle-St-Cloud - La Celle-St-Cloud Place Berthet
+459;Gare de St-Cloud - Rueil Henri Régnault
+460;Boulogne Gambetta - Gare de Vaucresson
+469;Hauts de Sèvres - Ville d'Avray Porte des Hauts-de-Seine
+471;Les Coteaux - Gare de Versailles Rive Droite
+485;Juvisy - Athis-Mons Centre Commercial
+486;Juvisy - Paray-Vieille-Poste Mairie - Athis-Mons Centre Commercial Rigolet
+487;Juvisy - Athis-Mons Place Henri Deudon - Athis-Mons Centre Commercial / Athis-Mons Les Oiseaux
+487d;Juvisy - Athis-Mons Place Henri Deudon
+488;Athis-Mons Place Henri Deudon - Juvisy RER
+492;Savigny-sur-Orge - Chilly-Mazarin Place de la Libération
+499;Juvisy - Savigny-sur-Orge ZAC Les Gâtines
+501;Traverse Charonne - Gambetta via Lagny-Maraîchers (circulaire)
+512;Front Populaire Gardinoux - Mairie d'Aubervilliers
+513;Traverse Bièvre Montsouris - Place de l'Abbé Georges Hénocque via Alésia Général Leclerc (circulaire)
+518;Traverse Batignolles-Bichat - Hôpital Bichat via Pont Cardinet (circulaire)
+519;Traverse Ney-Flandre - Porte d'Aubervilliers Oberlé via Place de la Chapelle (circulaire)
+524;La Navette / Le Bus Fontenaysien - Fontenay-sous-Bois Les Parapluies - Fontenay-sous-Bois Les Alouettes
+537;L'Audonienne - Saint-Ouen-Payret - Saint-Ouen-Debain (Service urbain de Saint-Ouen)
+544;Autobus Suresnois - Général de Gaulle via Gare de Suresnes-Mont Valérien / via Place de la République (Circulaire)(Service urbain de Suresnes)
+559;Ligne Bleue - Chemin de L'Île - Cimetière du Mont Valérien (réseau urbain de Nanterre)
+560;Ligne Rouge - Place de la Boule-Gambetta - Droits de l'Homme (réseau urbain de Nanterre)
+572;MONAST - Sèvres-Ville d'Avray gare SNCF - Monastère
+579;Clamibus - Maison de Quartier André Charré - Gare de Clamart (Service urbain de Clamart)
+580;Choisybus - Choisy-le-Roi RER via Mairie de Choisy et Parc Paysager des Gondoles (Circulaire) (Service urbain de Choisy-le-Roi)
+587;Ferme de Grignon - La Galaise
+594;Le petit fontenaisien - Division Leclerc via Gare RER et Les Blagis (Circulaire)(Service urbain de Fontenay-aux-Roses)
+597;L'Hirondelle - Hôtel de Ville - Cimetière intercommunal de Clamart  / Gare de Vanves - Malakoff (Navettes du marché)
+N01;Gare de l'Est - Gare de l'Est (circulaire intérieure)
+N02;Gare Montparnasse - Gare Montparnasse (circulaire extérieure)
+N11;Pont de Neuilly - Château de Vincennes
+N12;Pont de Sèvres - Romainville Carnot
+N13;Mairie d'Issy - Bobigny Pablo Picasso
+N14;Bourg-la-Reine - Mairie de St-Ouen
+N15;Villejuif Louis Aragon - Gabriel Péri
+N16;Mairie de Montreuil - Pont de Levallois
+N21;Châtelet - Chilly-Mazarin Libération
+N22;Châtelet - Rungis Marché International
+N23;Châtelet - Chelles-Gournay
+N24;Châtelet - Bezons Grand Cerf
+N31;Gare de Lyon - Juvisy
+N32;Gare de Lyon - Boissy-St-Léger
+N33;Gare de Lyon - Villiers-sur-Marne-Le-Plessis-Trévise
+N34;Gare de Lyon - Torcy
+N35;Gare de Lyon - Nogent-Le Perreux
+N41;Gare de l'Est - Sevran-Livry
+N42;Gare de l'Est - Aulnay-sous-Bois Garonor
+N43;Gare de l'Est - Gare de Sarcelles-St-Brice
+N44;Gare de l'Est - Pierrefitte-Stains
+N45;Gare de l'Est - Hôpital de Montfermeil
+N51;Gare St-Lazare - Gare d'Enghien-les-Bains
+N52;Gare St-Lazare - Gare d'Argenteuil
+N53;Gare St-Lazare - Nanterre-Université
+N61;Gare Montparnasse - Vélizy-Villacoublay Hôtel de Ville
+N62;Gare Montparnasse - Robinson
+N63;Gare Montparnasse - Massy-Palaiseau
+N66;Gare Montparnasse - Robert Wagner
+N71;Rungis Marché International - St-Maur-Créteil
+N122;Châtelet - Saint-Rémy-lès-Chevreuse RER
+N153;Gare Saint-Lazare - Gare de Saint-Germain-en-Laye
+AS;Suresnes De Gaulle - Suresnes De Gaulle (circulaire) (Autobus Suresnois)
+Bus du port;Gennevilliers - Gennevilliers Silos - Gennevilliers Direction du Port
+Buséolien 1;Puteaux Cimetière Nouveau - Île de Puteaux (service urbain de Puteaux)
+Buséolien 2;Puteaux Cimetière Nouveau - Puteaux Bellini (service urbain de Puteaux)
+ClamiBus;Gare de Clamart - Clamart Maison de quartier André Charré
+Désiré;Asnières Hôtel de Ville - Asnières Hôtel de Ville (circulaire) (service urbain d'Asnières)
+L'Audonienne;St-Ouen Payret - St-Ouen Debain
+dddddddddd;Rungis Marché International - Rungis Marché International (circulaire) [Service urbain de Chevilly-Larue]
+576;La Navette - Hôtel de Ville de Neuilly — Hôtel de Ville de Neuilly (circulaire) (service urbain de Neuilly-sur-Seine)
+Montbus;Montrouge St-Jacques — Montrouge St-Jacques (circulaire) (service urbain de Montrouge)
+577;Gabriel Péri - River Plaza - Les Grésillons
+SILIC;Aérogare d'Orly-Ouest - Rungis SILIC-Traversière (circulaire)
+SU Nanterre a;Nanterre Parc du Mont-Valérien - Nanterre-Ville (service urbain de Nanterre)
+SU Nanterre b;Nanterre Parc du Mont-Valérien - Nanterre Parc du Mont-Valérien (circulaire) (service urbain de Nanterre)
+571;SUBB - Hotel de Ville de Boulogne-Billancourt - Pont de Boulogne-Billancourt (circulaire) (Service Urbain de Boulogne-Billancourt)
+TILLBUS;Les Lilas Place du Vel' d'Hiv' — Les Lilas Place du Vel' d'Hiv' (circulaire) (service urbain des Lilas)
+TIM;Meudon Val Fleury - Gare de Bellevue (circulaire) (service urbain de Meudon)
+ccccccccccccc;Porte d'Aubervilliers Oberlé - Porte d'Aubervilliers Oberlé (circulaire)
+546;TUB Bondy - La mare à la Veuve (circulaire) (Transport Urbain Bondynois)
+574;TUC - Rue Martre-Mairie de Clichy(circulaire) (Transport Urbain de Clichy)
+TUVIM;Mairie d'Issy - Mairie d'Issy (circulaire) (service urbain d'Issy-les-Moulineaux)
+43n;Pont de Neuilly - Neuilly Bagatelle
+104v;Valenton Guy Môquet - Valenton Raspail
+307;Villiers-sur-Marne-Le-Plessis-Trévise - Villiers-sur-Marne-Le-Plessis-Trévise (circulaire) (La Navette de Villiers)
+BALABUS;Gare de Lyon - La Défense
+MONTMARTROBUS;Mairie du 18e-Jules Joffrin - Pigalle
+TVM;La Croix de Berny - Saint-Maur Créteil
+526; MontBus Chatillon (Circulaire)
+548;Collège Liberté - Charles Gide
+FUNICULAIRE;Funiculaire de Montmartre
+330;Fort d'Aubervilliers - Pantin Raymond Queneau Anatole France
+357;Nanterre Parc du Mont-Valérien - Nanterre Les Genêts (Pti'bus)
+366;Colombes Île Marante - Colombes Fossés Jean (circulaire) [Colomb'bus]
+514;Nogent-sur-Marne Centre nautique - Nogent-sur-Marne Centre nautique (circulaire)
+520;Bry-sur-Marne - Les Hauts de Bry (SFP)
+545;Noisy-le-Sec - Bagnolet Louise Michel
+547;Pavillons-sous-Bois Ancien Cimetière - Pavillons-sous-Bois Ancien Cimetière (circulaire) (service urbain des Pavillons-sous-Bois)
+551;Drancy Stade - Drancy Stade (circulaire) (le bus de l'Avenir)
+556;Deuil-la-Barre Aubépines - Deuil-la-Barre Zone Artisanale du Moutier
+563;Suresnes De Gaulle - Suresnes De Gaulle (circulaire) [circuit du Plateau du Mont Valérien]
+564;Rueil-Malmaison Collège La Malmaison - Rueil-Malmaison Les Pince-Vins [circuit de la Jonchère]
+565;Rueil-Malmaison Mairie - Rueil-Malmaison Eglise de Buzenval
+566;Colombes Rue de l'Industrie - Colombes Rue de l'Industrie (circulaire)
+578;Mairie de Villeneuve-la-Garenne - St-Denis Rue Charles Michels
+FFFFFFFFFF;Villejuif Louis Aragon - Laplace [T-IGR]
+595;Robinson - Le Plessis-Robinson La Boursidière
+542;V1 - Mairie de l'Haÿ-les-Roses - Le Kremlin-Bicêtre Leclerc-Thomas
+583;V2 - Fresnes Pasteur - L'Haÿ-les-Roses Centre commercial - Chevilly-Larue Rue Paul Hochart
+581;V3 - Cachan Centre ville - Cachan Centre ville (circulaire)
+562;V4 - Arcueil Hôtel de Ville-Centre - Arcueil Hôtel de Ville-Centre (circulaire)
+584;V5 - Gentilly Gabriel Péri Soleil Levant - Gentilly Gabriel Péri Soleil Levant (circulaire) 
+593;V6 - Le Kremlin-Bicêtre Leclerc-Thomas - Le Kremlin-Bicêtre Leclerc-Thomas (circulaire)
+585;V7 - Villejuif Louis Aragon - Villejuif Louis Aragon (circulaire) [Passepartout]
+634;Sevran-Beaudottes - Aulnay-sous-Bois Matisse-Delacroix (circulaire)
+637;Aulnay-sous-Bois - Aulnay-sous-Bois (circulaire)
+640;Parc des Expositions - Centre Commercial Paris Nord II
+641;Parc des Expositions - Parc d'Activités Paris-Nord II (circulaire)
+642;Chênay-Gagny - Villepinte
+644;Vaujours Hôtel de Ville - Le Raincy Lycée Schweitzer
+645;Hôpital de Montfermeil - Coubron Corot
+680;Aulnay-sous-Bois - Centre de production PSA d'Aulnay
+683;Villepinte - Centre de production PSA d'Aulnay
+684;Porte de Pantin - Centre de production PSA d'Aulnay
+686;La Courneuve 8 Mai 1945 - Centre de production PSA d'Aulnay
+690b;Bobigny Cité Administrative 1 - Bobigny Cité Administrative 2
+495;Massy-Palaiseau - Mairie de Vauhallan - Bièvres - Vélizy 2
+496;Massy-Palaiseau - Mairie de Vauhallan
+EOLIEN;541 - Conservatoire-Pressense - Cimetière Nouveau
+AMIBUS;Châtillon Métro - Mairie de Châtillon
+CHOISYBUS;Service urbain de Choisy-Le-Roi (circulaire)
+B;Aéroport Charles de Gaulle / Mitry Claye - Robinson / St Rémy les Chevreuse

@@ -1,0 +1,330 @@
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color,weelchair
+100100020:20,442,20,Gare St-Lazare - Gare de Lyon,,3,,f68f4b,000000,oui
+100100021:21,442,21,Gare St-Lazare - Stade Charléty,,3,,77c695,000000,oui
+100100022:22,442,22,Opéra - Porte de St-Cloud,,3,,008b5a,ffffff,oui
+100100024:24,442,24,Gare St-Lazare - Maubert-Mutualité - Gare d'Austerlitz - Ecole Vétérinaire de Maisons-Alfort,,3,,bb4b9c,ffffff,oui
+100100026:26,442,26,Gare St-Lazare - Nation Place des Antilles,,3,,f68f4b,000000,oui
+100100027:27,442,27,Gare St-Lazare - Porte d'Ivry Claude Regaud,,3,,f68f4b,000000,oui
+100100028:28,442,28,Gare St-Lazare - Porte d'Orléans,,3,,f59eb3,000000,oui
+100100029:29,442,29,Gare St-Lazare - Porte de Montempoivre,,3,,87d3df,000000,oui
+100100030:30,442,30,Gare de l'Est - Trocadéro,,3,,652c90,ffffff,oui
+100100031:31,442,31,Gare de l'Est - Charles de Gaulle-Etoile,,3,,ffcd02,000000,oui
+100100032:32,442,32,Gare de l'Est - Porte d'Auteuil,,3,,9c983a,000000,oui
+100100035:35,442,35,Gare de l'Est - Mairie d'Aubervilliers,,3,,77c695,000000,oui
+100100038:38,442,38,Gare du Nord - Porte d'Orléans,,3,,006cb8,ffffff,oui
+100100039:39,442,39,Gare du Nord - Issy Frères Voisin,,3,,bb4b9c,ffffff,oui
+100100042:42,442,42,Gare du Nord - Hôpital Européen Georges Pompidou,,3,,006cb8,ffffff,oui
+100100043:43,442,43,Gare du Nord - Neuilly Bagatelle,,3,,ed1b2a,ffffff,oui
+100100046:46,442,46,Gare du Nord - Château de Vincennes,,3,,cec92a,000000,oui
+100100047:47,442,47,Gare de l'Est - Le Kremlin-Bicêtre Fort de Bicêtre,,3,,f59eb3,000000,oui
+100100048:48,442,48,Palais-Royal - Porte des Lilas,,3,,006cb8,ffffff,oui
+100100052:52,442,52,Opéra - Charles de Gaulle-Etoile - Porte d'Auteuil - Parc de St-Cloud,,3,,87d3df,000000,oui
+100100053:53,442,53,Opéra - Pont de Levallois,,3,,cec92a,000000,oui
+100100054:54,442,54,Porte d'Aubervilliers - Gabriel Péri,,3,,8ec3d1,000000,oui
+100100056:56,442,56,Porte de Clignancourt - Château de Vincennes,,3,,bb4b9c,ffffff,oui
+100100057:57,442,57,Porte de Bagnolet Louis Ganne - Laplace,,3,,9c983a,ffffff,oui
+100100058:58,442,58,Châtelet - Vanves Lycée Michelet,,3,,008b5a,ffffff,oui
+100100060:60,442,60,Gambetta - Porte de Montmartre,,3,,ed1b2a,ffffff,oui
+100100061:61,442,61,Gare d'Austerlitz - Eglise de Pantin,,3,,008b5a,ffffff,oui
+100100062:62,442,62,Bibliothèque François Mitterrand - Porte de St-Cloud,,3,,8d653a,ffffff,oui
+100100063:63,442,63,Gare de Lyon - Porte de la Muette,,3,,cec92a,000000,oui
+100100064:64,442,64,Gambetta - Place d'Italie,,3,,77c695,000000,oui
+100100065:65,442,65,Gare de Lyon - Mairie d'Aubervilliers,,3,,008b5a,ffffff,oui
+100100066:66,442,66,Opéra - Clichy Victor Hugo,,3,,008b5a,ffffff,oui
+100100067:67,442,67,Pigalle - Châtelet-Hôtel de Ville - Stade Charléty,,3,,ea7c9a,000000,oui
+100100068:68,442,68,Place de Clichy - Châtillon-Montrouge,,3,,ffcd01,000000,oui
+100100069:69,442,69,Gambetta - Champ de Mars,,3,,87d3df,000000,oui
+100100070:70,442,70,Hôtel de Ville - Radio-France,,3,,f68f4b,000000,oui
+100100072:72,442,72,Hôtel de Ville - Parc de St-Cloud,,3,,ed1b2a,ffffff,oui
+100100073:73,442,73,Musée d'Orsay - La Garenne-Colombes Place de Belgique,,3,,8d653a,ffffff,oui
+100100074:74,442,74,Hôtel de Ville - Porte de Clichy - Clichy Berges de Seine,,3,,cec92a,000000,oui
+100100075:75,442,75,Pont Neuf - Porte de Pantin,,3,,ffcd02,000000,oui
+100100076:76,442,76,Louvre-Rivoli - Bagnolet Louise Michel,,3,,652c90,ffffff,oui
+100100080:80,442,80,Mairie du XVIIIè - Porte de Versailles,,3,,f59eb3,000000,oui
+100100081:81,442,81,Châtelet - Porte de St-Ouen,,3,,c9a2cd,000000,oui
+100100082:82,442,82,Luxembourg - Neuilly Hôpital Américain,,3,,f68f4b,000000,oui
+100100083:83,442,83,Friedland-Haussmann - Porte d'Ivry Claude Régaud,,3,,ffcd02,000000,oui
+100100084:84,442,84,Panthéon - Porte de Champerret,,3,,c9a2cd,000000,oui
+100100085:85,442,85,Luxembourg - Mairie du XVIIIè - Mairie de St-Ouen,,3,,8d653a,ffffff,oui
+100100086:86,442,86,St-Germain-des-Prés - St-Mandé Demi-Lune,,3,,ed1b2a,ffffff,oui
+100100087:87,442,87,Champ de Mars - Bastille - Porte de Reuilly,,3,,652c90,ffffff,oui
+100100088:88,442,88,Montsouris-Tombe Issoire - Hôpital Européen Georges Pompidou,,3,,cec92a,000000,oui
+100100089:89,442,89,Bibliothèque François Mitterrand - Gare de Vanves-Malakoff,,3,,87d3df,000000,oui
+100100091:91,442,91,Montparnasse 2 Gare TGV - Bastille,,3,,dfb03a,000000,oui
+100100092:92,442,92,Gare Montparnasse - Porte de Champerret,,3,,ffcd02,000000,oui
+100100093:93,442,93,Invalides - Suresnes de Gaulle,,3,,77c695,000000,oui
+100100094:94,442,94,Gare Montparnasse - Gare St-Lazare - Levallois Louison Bobet,,3,,bb499c,ffffff,oui
+100100095:95,442,95,Porte de Vanves - Porte de Montmartre,,3,,8d653a,ffffff,oui
+100100096:96,442,96,Gare Montparnasse - Porte des Lilas,,3,,dfb03a,000000,oui
+100100101:101,442,101,Joinville-le-Pont - Champigny Camping International,,3,,ffcd01,000000,oui
+100100102:102,442,102,Gambetta - Rosny-Bois Perrier,,3,,ffcd01,000000,oui
+100100103:103,442,103,Ecole Vétérinaire de Maisons-Alfort - Rungis Marché International,,3,,f68f4b,000000,oui
+100100104:104,442,104,Ecole Vétérinaire de Maisons-Alfort - Bonneuil Place des Libertés,,3,,ed1b2a,ffffff,oui
+100100105:105,442,105,Porte des Lilas - Mairie des Pavillons-sous-Bois,,3,,f68f4b,000000,oui
+100100106:106,442,106,Joinville-le-Pont - Villiers-sur-Marne-Le-Plessis-Trévise,,3,,ed1b2a,ffffff,oui
+100100107:107,442,107,Ecole Vétérinaire de Maisons-Alfort - St-Maur-Créteil - St-Maur La Pie,,3,,f59eb3,000000,non
+100100108:108,442,108,Joinville-le-Pont - Champigny Jeanne Vacher,,3,,f59eb3,000000,non
+100100109:109,442,109,Terroirs de France - Charenton Pont Nelson Mandela,,3,,cec92a,000000,oui
+100100110:110,442,110,Joinville-le-Pont - Villiers-sur-Marne-Le-Plessis-Trévise,,3,,652c90,ffffff,oui
+100100111:111,442,111,Terroirs de France - St-Maur Corneilles - La Varenne-Chennevières - Champigny,,3,,c9a2cd,000000,oui
+100100112:112,442,112,Château de Vincennes - La Varenne-Chennevières,,3,,f68f4b,000000,non
+100100113:113,442,113,Nogent-sur-Marne - Mairie de Chelles - Chelles 2 Centre Commercial,,3,,ed1b2a,ffffff,non
+100100114:114,442,114,Château de Vincennes - Le Raincy-Villemomble-Montfermeil - Villemomble Les Coquetiers,,3,,77c695,ffffff,non
+100100115:115,442,115,Porte des Lilas - Mairie de Montreuil - Château de Vincennes,,3,,008b5a,ffffff,oui
+100100116:116,442,116,Rosny-Bois Perrier - Eglise de Rosny-sous-Bois - Champigny,,3,,87d3df,000000,oui
+100100117:117,442,117,Créteil Préfecture du Val-de-Marne - Champigny,,3,,008b5a,ffffff,oui
+100100118:118,442,118,Château de Vincennes - Eglise de Rosny-sous-Bois,,3,,e0b03b,000000,oui
+100100119:119,442,119,Massy-Palaiseau - Les Baconnets,,3,,ffcd01,000000,non
+100100120:120,442,120,Nogent-sur-Marne - Bry-sur-Marne Hôpital St-Camille - Noisy-le-Grand Mont d'Est - Mairie de Noisy-le-Grand,,3,,c9a2cd,000000,non
+100100121:121,442,121,Mairie de Montreuil - Château de Villemomble - Villemomble Lycée Clémenceau,,3,,ed1b2a,ffffff,oui
+100100122:122,442,122,Galliéni - Val de Fontenay,,3,,c9a2cd,000000,oui
+100100123:123,442,123,Porte d'Auteuil - Mairie d'Issy,,3,,008b5a,ffffff,non
+100100124:124,442,124,Château de Vincennes - Val de Fontenay,,3,,f59fb3,000000,oui
+100100125:125,442,125,Porte d'Orléans - Ecole Vétérinaire de Maisons-Alfort,,3,,006cb8,ffffff,oui
+100100126:126,442,126,Porte d'Orléans - Parc de St-Cloud,,3,,87d3df,000000,non
+100100127:127,442,127,Croix de Chavaux - Neuilly-sur-Marne Île-de-France,,3,,f68f4b,000000,oui
+100100128:128,442,128,Porte d'Orléans - Bagneux Dampierre - Robinson,,3,,8d653a,ffffff,non
+100100129:129,442,129,Porte des Lilas - Mairie de Montreuil,,3,,9b993b,ffffff,oui
+100100131:131,442,131,Porte d'Italie - L'Haÿ-les-Roses Les Dahlias - Rungis-La Fraternelle,,3,,8d653a,ffffff,non
+100100132:132,442,132,Bibliothèque François Mitterrand - Vitry-sur-Seine Cité du Moulin Vert,,3,,652c90,ffffff,oui
+100100133:133,442,133,Sarcelles Bois d'Ecouen - Gare de Sarcelles-St-Brice - Le Bourget,,3,,77c695,000000,non
+100100134:134,442,134,Fort d'Aubervilliers - Bondy Jouhaux-Blum,,3,,f59fb3,000000,oui
+100100137:137,442,137,Porte de Clignancourt - Villeneuve-la-Garenne Z.I. Nord,,3,,f68f4b,000000,non
+100100138:138,442,138,Porte de Clichy - Ermont-Eaubonne,,3,,bb4b9c,ffffff,non
+100100139:139,442,139,Porte de la Villette - La Plaine Stade de France - Carrefour Pleyel - St-Ouen,,3,,f68f4b,000000,oui
+100100140:140,442,140,Gabriel Péri - Gare d'Argenteuil,,3,,ed1b2a,ffffff,oui
+100100141:141,442,141,La Défense Grande Arche - Lycée de Rueil-Malmaison,,3,,e0b03b,000000,oui
+100100143:143,442,143,La Courneuve-Aubervilliers - Drancy Lycée Delacroix - Rosny-sous-Bois,,3,,006cb8,ffffff,non
+100100144:144,442,144,La Défense Grande Arche - Rueil-Malmaison,,3,,c9a2cd,000000,oui
+100100145:145,442,145,Eglise de Pantin - Cimetière de Villemomble,,3,,bb4b9c,ffffff,oui
+100100146:146,442,146,Le Bourget - Montfermeil Les Bosquets,,3,,c9a2cd,000000,oui
+100100147:147,442,147,Eglise de Pantin - Sevran Avenue Ronsard,,3,,ed1b2a,ffffff,non
+100100148:148,442,148,Bobigny Pablo Picasso - Le Blanc-Mesnil Musée de l'Air / Aulnay-sous-Bois Garonor,,3,,8d653a,ffffff,oui
+100100150:150,442,150,Porte de la Villette - Pierrefitte-Stains,,3,,f59eb3,000000,non
+100100151:151,442,151,Porte de Pantin - Bondy Jouhaux-Blum,,3,,bb4b9c,ffffff,non
+100100152:152,442,152,Porte de la Villette - Le Blanc-Mesnil ZA du Pont Yblon - Gonesse ZAC des Tulipes,,3,,ed1b2a,ffffff,non
+100100153:153,442,153,Porte de la Chapelle - Stains Moulin Neuf,,3,,008b5a,ffffff,oui
+100100156:156,442,156,Gare d'Épinay-Villetaneuse - Villetaneuse-Université-Paris-13,,3,,ffcd02,ffffff,oui
+100100157:157,442,157,Pont de Neuilly - Nanterre-Ville - Nanterre Boulevard de Seine,,3,,bb499c,ffffff,oui
+100100158:158,442,158,Pont de Neuilly - Rueil-Malmaison,,3,,f68f4b,000000,oui
+100100159:159,442,159,La Défense Grande Arche - Nanterre Cité du Vieux Pont,,3,,652c90,ffffff,oui
+100100160:160,442,160,Nanterre-Préfecture - Pont de Sèvres,,3,,008b5a,ffffff,oui
+100100162:162,442,162,Meudon Val Fleury - Villejuif Louis Aragon,,3,,006cb8,ffffff,oui
+100100163:163,442,163,Porte de Champerret - Bezons Grand Cerf,,3,,dfb03a,000000,oui
+100100164:164,442,164,Porte de Champerret - Argenteuil Collège Claude Monet,,3,,bb499c,ffffff,oui
+100100165:165,442,165,Porte de Champerret - Asnières Robert Lavergne,,3,,f68f4b,000000,non
+100100166:166,442,166,Porte de Clignancourt - Colombes Audra,,3,,652c90,ffffff,oui
+100100167:167,442,167,Pont de Levallois - Nanterre-Ville,,3,,77c695,000000,oui
+100100169:169,442,169,Pont de Sèvres - Hôpital Européen Georges Pompidou,,3,,77c695,000000,oui
+100100170:170,442,170,Porte des Lilas - St-Denis,,3,,87d3df,000000,oui
+100100171:171,442,171,Pont de Sèvres - Gare de Chaville R.D. / Gare de Chaville R.G. / Château de Versailles,,3,,ed1b2a,ffffff,oui
+100100172:172,442,172,Bourg-la-Reine - Créteil l'Echat Parking,,3,,008b5a,ffffff,non
+100100173:173,442,173,Porte de Clichy - La Courneuve 8 Mai 1945,,3,,006cb8,ffffff,non
+100100174:174,442,174,La Défense Grande Arche - St-Ouen,,3,,008b5a,ffffff,oui
+100100175:175,442,175,Porte de St-Cloud - Gabriel Péri,,3,,006cb8,ffffff,oui
+100100176:176,442,176,Pont de Neuilly - Colombes Petit Gennevilliers,,3,,e0b03b,000000,oui
+100100177:177,442,177,Gabriel Péri - Villeneuve-la-Garenne ZI Nord,,3,,77c695,000000,oui
+100100178:178,442,178,La Défense Grande Arche - Villeneuve-la-Garenne Place Paul Herbé,,3,,006cb8,ffffff,non
+100100179:179,442,179,Pont de Sèvres - Robinson,,3,,008b5a,ffffff,non
+100100180:180,442,180,Villejuif Louis Aragon - Charenton Ecoles,,3,,9c983a,ffffff,non
+100100181:181,442,181,Ecole Vétérinaire de Maisons-Alfort - Créteil La Gaîté,,3,,8d653a,ffffff,oui
+100100182:182,442,182,Mairie d'Ivry - Choisy-le-Roi Pont de Choisy - Villeneuve-Triage,,3,,bb4b9c,ffffff,oui
+100100183:183,442,183,Porte de Choisy - Mairie d'Orly - Aéroport d'Orly-Sud,,3,,ed1b2a,ffffff,oui
+100100184:184,442,184,Porte d'Italie - Fresnes Pasteur,,3,,dfb03a,000000,oui
+100100185:185,442,185,Porte d'Italie - Rungis Marché International - Rungis MIN Marée,,3,,f18b3a,000000,oui
+100100186:186,442,186,Porte d'Italie - Fresnes Rond-point Roosevelt,,3,,b43c95,ffffff,oui
+100100187:187,442,187,Porte d'Orléans - Fresnes Charcot-Zola,,3,,652c90,ffffff,non
+100100188:188,442,188,Porte d'Orléans - Bagneux Rosenberg,,3,,c9a2cd,000000,oui
+100100189:189,442,189,Porte de St-Cloud - Clamart Georges Pompidou,,3,,f68f4b,000000,non
+100100190:190,442,190,Mairie d'Issy - Clamart Cité de la Plaine - Rond-point du Petit Clamart - Vélizy 2,,3,,8d653a,ffffff,non
+100100191:191,442,191,Porte de Vanves - Malakoff Rue Etienne Dolet - Clamart Place du Garde,,3,,f59fb3,000000,oui
+100100192:192,442,192,Robinson - Rungis Marché International,,3,,77c695,000000,non
+100100194:194,442,194,Porte d'Orléans - Châtenay-Malabry Lycée Polyvalent,,3,,f68f4b,000000,oui
+100100195:195,442,195,Châtillon-Montrouge - Clamart-Fontenay Division Leclerc - Robinson,,3,,bb4b9c,ffffff,non
+100100196:196,442,196,Antony - Massy-Palaiseau,,3,,e0b03b,000000,oui
+100100197:197,442,197,Porte d'Orléans - Massy Opéra-Théâtre,,3,,ed1b2a,ffffff,non
+100100199:199,442,199,Massy-Palaiseau - Saulx-les-Chartreux Collège Pablo Picasso / Longjumeau La Rocade-Lycée,,3,,cec92a,000000,non
+100100201:201,442,201,Joinville-le-Pont - Champigny Diderot-La Plage,,3,,8d653a,ffffff,oui
+100100203:203,442,203,Neuilly-Plaisance - Neuilly-sur-Marne Cité des Bouleaux,,3,,f59fb3,000000,oui
+100100206:206,442,206,Noisy-le-Grand Mont d'Est - Le Plessis-Trévise Place Gambetta - Emerainville-Pontault-Combault,,3,,8d653a,ffffff,oui
+100100207:207,442,207,Noisy-le-Grand Mont d'Est - Hôpital de la Queue-en-Brie,,3,,dfb03a,000000,oui
+100100210:210,442,210,Château de Vincennes - Villiers-sur-Marne-Le-Plessis-Trévise,,3,,ffcd01,000000,oui
+100100211:211,442,211,Torcy - Chelles 2 Centre Commercial,,3,,f59fb3,000000,non
+100100212:212,442,212,Champs-sur-Marne Pointe de Champs - Noisy-Champs Descartes - Emerainville-Pontault-Combault,,3,,87d3df,000000,non
+100100213:213,442,213,Chelles-Gournay - Noisy-Champs Descartes - Lognes Le Village,,3,,9b993b,ffffff,non
+100100214:214,442,214,Neuilly-Plaisance - Neuilly-sur-Marne Z.I. des Chanoux / Gagny Roger Salengro,,3,,c9a2cd,000000,oui
+100100215:215,442,215,Porte de Montreuil - Vincennes République,,3,,77c695,000000,oui
+100100216:216,442,216,Denfert-Rochereau - Rungis Marché International,,3,,ed1b2a,ffffff,non
+100100217:217,442,217,Mairie d'Alfortville - Hôtel de Ville de Créteil,,3,,652c90,ffffff,non
+100100220:220,442,220,Bry-sur-Marne - Torcy,,3,,bb499c,ffffff,non
+100100221:221,442,221,Galliéni - Gagny Pointe de Gournay,,3,,f59fb3,000000,non
+100100234:234,442,234,Fort d'Aubervilliers - Mairie de Livry-Gargan,,3,,f68f4b,000000,oui
+100100235:235,442,235,Gabriel Péri - Colombes Europe,,3,,ffcd02,000000,non
+100100237:237,442,237,Mairie de St-Ouen - L'Île-St-Denis Parc Départemental Collège Sisley,,3,,c9a2cd,000000,non
+100100238:238,442,238,Pont de Levallois - Asnières Mourinoux / St-Gratien,,3,,f59eb3,000000,non
+100100239:239,442,239,Porte de la Chapelle - Basilique de St-Denis Médiathèque,,3,,bb4b9c,ffffff,oui
+100100241:241,442,241,Porte d'Auteuil - Suresnes Place de la Paix - Rueil-Malmaison,,3,,8d653a,ffffff,oui
+100100244:244,442,244,Porte Maillot - Rueil-Malmaison,,3,,bb4b9c,ffffff,oui
+100100247:247,442,247,Garonor - Stade Charles Sage,,3,,f68f4b,000000,non
+100100248:248,442,248,Fort d'Aubervilliers - Drancy RER,,3,,c9a2cd,000000,non
+100100249:249,442,249,Porte des Lilas • Porte de la Villette - Dugny Centre-ville,,3,,cec92a,000000,oui
+100100250:250,442,250,Fort d'Aubervilliers - Gonesse La Fontaine Cypière Z.I.,,3,,b43c95,ffffff,non
+100100251:251,442,251,Bobigny Benoît Frachon - Bobigny Pablo Picasso - Aulnay-sous-Bois,,3,,ed1b2a,ffffff,non
+100100252:252,442,252,Porte de la Chapelle - Garges-Sarcelles,,3,,ed1b2a,ffffff,non
+100100253:253,442,253,Stade de France St-Denis - Mairie de Stains,,3,,ffcd02,000000,oui
+100100254:254,442,254,St-Denis Porte de Paris - Pierrefitte-Stains - Mairie de Montmagny,,3,,77c695,000000,oui
+100100255:255,442,255,Porte de Clignancourt - Stains Les Prévoyants - Garges Rond-point de la Lutèce,,3,,9c983a,ffffff,non
+100100256:256,442,256,La Courneuve-Aubervilliers - Gare d'Enghien-les-Bains - Lycée d'Enghien,,3,,8d653a,ffffff,non
+100100258:258,442,258,La Défense Grande Arche - St-Germain-en-Laye,,3,,ed1b2a,000000,oui
+100100261:261,442,261,Mairie de Villeneuve-la-Garenne - Eglise de Franconville,,3,,ed1b2a,ffffff,non
+100100262:262,442,262,La Défense Grande Arche - Maisons-Laffitte,,3,,bb499c,ffffff,oui
+100100268:268,442,268,St-Denis Porte de Paris - St-Denis Université - Villiers-le-Bel-Gonesse,,3,,dfb03a,000000,non
+100100269:269,442,269,Garges-Sarcelles - Hôtel de Ville d'Attainville,,3,,f68f4b,000000,non
+100100270:270,442,270,Garges-Sarcelles - Villiers-le-Bel-Gonesse,,3,,f59eb3,000000,non
+100100272:272,442,272,La Défense Grande Arche - Sartrouville De Gaulle - Sartrouville,,3,,f68f4b,000000,oui
+100100274:274,442,274,Levallois Voltaire-Villiers - St-Denis Place Jean Poulmarch,,3,,ed1b2a,ffffff,non
+100100275:275,442,275,La Défense Grande Arche - Hérold Mairie de Courbevoie - Pont de Levallois,,3,,ffcd02,000000,oui
+100100276:276,442,276,La Défense Grande Arche - Gabriel Péri,,3,,ed1b2a,ffffff,oui
+100100278:278,442,278,La Défense Grande Arche - Courbevoie Europe,,3,,c9a2cd,000000,oui
+100100281:281,442,281,Joinville-le-Pont - Créteil Europarc,,3,,dfb03a,000000,oui
+100100285:285,442,285,Villejuif Louis Aragon - Juvisy,,3,,bb4b9c,ffffff,oui
+100100286:286,442,286,Villejuif Louis Aragon - Antony,,3,,c9a2cd,000000,oui
+100100289:289,442,289,Porte de St-Cloud - Clamart Cité de la Plaine,,3,,bb4b9c,ffffff,NC
+100100290:290,442,290,Issy-Val de Seine - Meudon-la-Forêt Europe Nord - Meudon-la-Forêt Pasteur,,3,,c9a2cd,000000,non
+100100291:291,442,291,Pont de Sèvres - Vélizy Europe Sud,,3,,9c983a,ffffff,non
+100100292:292,442,292,Rungis Marché International - Savigny-sur-Orge Z.A.C. Les Gâtines,,3,,f59eb3,000000,non
+100100294:294,442,294,Châtillon-Montrouge - Igny,,3,,c9a2cd,000000,non
+100100297:297,442,297,Porte d'Orléans - Antony - Longjumeau Place Charles Stéber,,3,,bb499c,ffffff,non
+100100299:299,442,299,Porte d'Orléans - Mairie de Morangis,,3,,f68f4b,000000,oui
+100100301:301,442,301,Bobigny Pablo Picasso - Val de Fontenay,,3,,cec92b,000000,non
+100100302:302,442,302,Gare du Nord - La Courneuve 6 Routes,,3,,ffcd02,000000,oui
+100100303:303,442,303,Bobigny Pablo Picasso - Noisy-le-Grand Mont d'Est,,3,,9b993b,ffffff,non
+100100304:304,442,304,Les Courtilles - Nanterre Place de la Boule,,3,,cec92a,000000,non
+100100306:306,442,306,St-Maur-Créteil - Noisy-le-Grand Mont d'Est,,3,,006cb8,ffffff,oui
+100100308:308,442,308,Créteil Préfecture du Val de Marne - Villiers-sur-Marne-Le-Plessis-Trévise,,3,,77c695,000000,non
+100100310:310,442,310,Noisy Champs RER - Les Yvris Noisy-le-Grand RER,,3,,cec92a,000000,oui
+100100312:312,442,312,Chelles-Gournay - Noisy-Champs Descartes,,3,,f68f4b,000000,non
+100100317:317,442,317,Hôtel de Ville de Créteil - Le Parc de St-Maur - Nogent-Le Perreux,,3,,cec92a,000000,non
+100100318:318,442,318,Château de Vincennes - Bobigny-Pantin Raymond Queneau,,3,,006cb8,ffffff,oui
+100100319:319,442,319,Massy-Palaiseau - Massy Opéra-Théâtre - Rungis Marché International,,3,,008b5a,ffffff,non
+100100320:320,442,320,Noisy-le-Grand Mont d'Est - Noisy-le-Grand Mont d'Est (circulaire),,3,,ffcd02,000000,oui
+100100321:321,442,321,Lognes - Aérodrome de Lognes - Croissy-Beaubourg Z.I. Pariest,,3,,ffcd02,000000,non
+100100322:322,442,322,Bobigny Pablo Picasso - Mairie de Montreuil,,3,,87d3df,000000,oui
+100100323:323,442,323,Issy-Val de Seine - Ivry-sur-Seine,,3,,cec92b,000000,oui
+100100325:325,442,325,Bibliothèque François Mitterrand - Château de Vincennes,,3,,87d3df,000000,non
+100100330:330,442,330,Fort d'Aubervilliers - Pantin Raymond Queneau Anatole France,,3,,ffcd02,000000,oui
+100100333:333,442,333,Garges-Sarcelles - Garges L'Argentière,,3,,006CB8,ffffff,non
+100100334:334,442,334,Les Pavillons-sous-Bois Rd Pt Robert Schuman - Pont de Bondy (circulaire),,3,,ffcd02,000000,non
+100100337:337,442,337,Deuil-la-Barre Zone artisanale du Moutier - Pierrefitte Stains RER,,3,,652c90,ffffff,non
+100100340:340,442,340,Gennevilliers Les Louvresses - Gabriel Péri - Clichy Hôpital Beaujon - Clichy Berges de Seine,,3,,e0b03b,000000,oui
+100100341:341,442,341,Mairie de Clichy Landy-Martre - Porte de Clignancourt,,3,,ffcd02,000000,oui
+100100346:346,442,346,Rosny 2 Nord - Le Blanc-Mesnil Place de la Libération,,3,,cec92b,000000,non
+100100347:347,442,347,Pont de Bondy - Avenue de Rosny - Hôtel de Ville de Montfermeil - Hôpital de Montfermeil,,3,,bb4b9c,ffffff,non
+100100349:349,442,349,Parc des Expositions - Aéroport CDG Roissypole - Route de l'Arpenteur ADP,,3,,77c695,000000,non
+100100350:350,442,350,Gare de l'Est - Aéroport CDG Roissypole,,3,,652c90,ffffff,non
+100100351:351,442,351,Nation - Aéroport CDG Roissypole,,3,,e0b03b,000000,non
+100100355:355,442,355,Sarcelles Bois d'Ecouen - Gare de Sarcelles-St-Brice - Sarcelles Sous-préfecture,,3,,652c90,ffffff,non
+100100356:356,442,356,St-Denis Université - Deuil-la-Barre Marché des Mortefontaines,,3,,f68f4b,000000,NC
+100100360:360,442,360,La Défense Grande Arche - Hôpital de Garches,,3,,cec92b,000000,oui
+100100361:361,442,361,St-Denis - St-Denis Université - Gare d'Argenteuil,,3,,006cb8,ffffff,non
+100100366:366,442,366,Colombes Île Marante - Colombes Fossés Jean (circulaire) [Colomb'bus],,3,,006cb8,ffffff,non
+100100367:367,442,367,Gare de Colombes - Rueil-Malmaison,,3,,ffcd02,000000,oui
+100100368:368,442,368,Garges-Sarcelles - Garges-Sarcelles (circulaire),,3,,cec92a,000000,NC
+100100370:370,442,370,Villiers-le-Bel-Gonesse - Marché de St-Brice,,3,,87d3df,000000,non
+100100372:372,442,372,Maisons-Alfort-Alfortville - Maisons-Alfort Louis Fliche,,3,,ffcd02,ffffff,non
+100100378:378,442,378,La Défense Grande Arche - Mairie de Villeneuve-la-Garenne,,3,,008b5a,ffffff,oui
+100100379:379,442,379,Vélizy 2 - La Croix de Berny,,3,,ffcd01,000000,non
+100100380:380,442,380,Vache Noire centre commercial - Villejuif Louis Aragon,,3,,77c695,000000,non
+100100385:385,442,385,Juvisy - Savigny-sur-Orge Toulouse-Lautrec - Epinay-sur-Orge,,3,,dfb03a,000000,non
+100100388:388,442,388,Châtillon-Montrouge - Bourg-la-Reine,,3,,ffcd01,000000,oui
+100100389:389,442,389,Pont de Sèvres - Meudon-la-Forêt Centre Administratif,,3,,006cb8,ffffff,non
+100100390:390,442,390,Bourg-la-Reine - Hôtel de Ville de Vélizy-Villacoublay,,3,,87d3df,000000,non
+100100391:391,442,391,Châtillon-Montrouge - Bagneux Pont Royal,,3,,cec92b,000000,non
+100100393:393,442,393,Villejuif Louis Aragon - Sucy-Bonneuil,,3,,,,
+100100394:394,442,394,Issy Val de Seine - Bourg-la-Reine,,3,,652c90,ffffff,oui
+100100395:395,442,395,Antony - Clamart Georges Pompidou,,3,,006cb8,ffffff,non
+100100396:396,442,396,La Croix de Berny - Thiais Belle Epine Sud,,3,,cec92a,000000,non
+100100399:399,442,399,Massy-Palaiseau - Juvisy,,3,,87d3df,000000,oui
+100100421:421,442,421,Gare de Vaires-Torcy - Emerainville-Pontault-Combault,,3,,008b5a,ffffff,non
+100100426:426,442,426,Pont de sèvres - La Celle Saint-Cloud Gare SNCF,,3,,8d653a,ffffff,non
+100100459:459,442,459,Gare de St-Cloud - Rueil Henri Régnault,,3,,ed1b2a,ffffff,non
+100100467:467,442,467,Pont de Sèvres - Rueil-Malmaison,,3,,9b983a,ffffff,oui
+100100471:471,442,471,Les Coteaux - Gare de Versailles Rive Droite,,3,,006cb8,ffffff,non
+100100485:485,442,485,Juvisy - Athis-Mons Centre Commercial,,3,,f68f4b,000000,non
+100100486:486,442,486,Juvisy - Paray-Vieille-Poste Mairie - Athis-Mons Centre Commercial Rigolet,,3,,008b5a,ffffff,non
+100100487:487,442,487,Juvisy - Athis-Mons Place Henri Deudon - Athis-Mons Centre Commercial / Athis-Mons Les Oiseaux,,3,,ffcd02,000000,non
+100100488:488,442,488,Athis-Mons Place Henri Deudon - Juvisy RER,,3,,006cb8,ffffff,non
+100100492:492,442,492,Savigny-sur-Orge - Chilly-Mazarin Place de la Libération,,3,,ffcd02,000000,non
+100100501:501,442,501,Traverse Charonne - Gambetta via Lagny-Maraîchers (circulaire),Traverse Charonne,3,,006CB8,ffffff,oui
+100100512:512,442,512,Front Populaire Gardinoux - Mairie d'Aubervilliers,,3,,ffcd02,000000,non
+100100513:513,442,513,Traverse Bièvre Montsouris - Place de l'Abbé Georges Hénocque via Alésia Général Leclerc (circulaire),Traverse Bièvre,3,,BB499C,ffffff,oui
+100100518:518,442,518,Traverse Batignolles-Bichat - Hôpital Bichat via Pont Cardinet (circulaire),Traverse Batignolles-Bichat,3,,652C90,ffffff,oui
+100100519:519,442,519,Traverse Ney-Flandre - Porte d'Aubervilliers Oberlé via Place de la Chapelle (circulaire),Traverse Ney-Flandre,3,,C9A2CD,000000,oui
+100100520:520,442,520,Bry-sur-Marne - Les Hauts de Bry (SFP),,3,,008b5a,ffffff,non
+100100524:524,442,524,La Navette / Le Bus Fontenaysien - Fontenay-sous-Bois Les Parapluies - Fontenay-sous-Bois Les Alouettes,,3,,652c90,ffffff,non
+100100537:537,442,537,L'Audonienne - Saint-Ouen-Payret - Saint-Ouen-Debain (Service urbain de Saint-Ouen),L'Audonienne,3,,f59eb3,000000,non
+100100538:538,442,538,Gennevilliers - Gennevilliers Silos - Gennevilliers Direction du Port,Bus du Port,3,,9b983a,ffffff,non
+100100541:541,442,541,Puteaux Cimetière Nouveau - Île de Puteaux - Puteaux Bellini (service urbain de Puteaux),Buséolien 1|2,3,,f68f4b,000000,oui
+100100544:544,442,544,Autobus Suresnois - Général de Gaulle via Gare de Suresnes-Mont Valérien / via Place de la République (Circulaire)(Service urbain de Suresnes),Autobus Suresnois,3,,006cb8,ffffff,oui
+100100545:545,442,545,Noisy-le-Sec - Bagnolet Louise Michel,,3,,ffcd01,000000,non
+100100559:559,442,559,Ligne Bleue - Chemin de L'Île - Cimetière du Mont Valérien (réseau urbain de Nanterre),,3,,87d3df,000000,oui
+100100560:560,442,560,Ligne Rouge - Place de la Boule-Gambetta - Droits de l'Homme (réseau urbain de Nanterre),,3,,ed1b2a,ffffff,oui
+100100563:563,442,563,Suresnes De Gaulle - Suresnes De Gaulle (circulaire) [circuit du Plateau du Mont Valérien],,3,,ed1b2a,ffffff,non
+100100564:564,442,564,Rueil-Malmaison Collège La Malmaison - Rueil-Malmaison Les Pince-Vins [circuit de la Jonchère],,3,,006cb8,ffffff,non
+100100565:565,442,565,Rueil-Malmaison Mairie - Rueil-Malmaison Eglise de Buzenval,,3,,008b5a,ffffff,non
+100100566:566,442,566,Colombes Rue de l'Industrie - Colombes Rue de l'Industrie (circulaire),,3,,f68f4b,000000,non
+100100577:577,442,577,Gabriel Péri - River Plaza - Les Grésillons,RiverPlaza,3,,f68f4b, '00000024b77,non
+100100579:579,442,579,Clamibus - Maison de Quartier André Charré - Gare de Clamart (Service urbain de Clamart),Clamibus,3,,ffcd01,000000,non
+100100594:594,442,594,Le petit fontenaisien - Division Leclerc via Gare RER et Les Blagis (Circulaire)(Service urbain de Fontenay-aux-Roses),Le petit fontenaisien,3,,006cb8,ffffff,non
+100100595:595,442,595,Robinson - Le Plessis-Robinson La Boursidière,,3,,006cb8,ffffff,non
+100100597:597,442,597,L'Hirondelle - Hôtel de Ville - Cimetière intercommunal de Clamart  / Gare de Vanves - Malakoff (Navettes du marché),L'Hirondelle,3,,77c695,000000,oui
+100100208:208A,442,208A,Champigny Saint-Maur RER - Champigny Place de la Résistance,,3,,b43c95,FFFFFF,#N/A
+100100208:208B,442,208B,Champigny - Champigny-Chennevières Bois-l'Abbé - Le Plessis-Trévise Place Gambetta,,3,,b43c95,FFFFFF,#N/A
+100100208:208S,442,208S,Fort de Champigny - Champigny Place de la Résistance,,3,,000080,FFFFFF,non
+100100592:AMIBUS,442,AMIBUS,Châtillon Métro - Mairie de Châtillon,,3,,,,
+100100582:CHOISYB,442,CHOISYB,Service urbain de Choisy-Le-Roi (circulaire),,3,,,,
+100100572:MONAST,442,MONAST,Sèvres-Ville d'Avray gare SNCF - Monastère,,3,,,,
+100100526:MONTBUS,442,MONTBUS,Montrouge St-Jacques — Montrouge St-Jacques (circulaire) (service urbain de Montrouge),,3,,,,
+100100008:MONTMAR,442,MONTMAR,Mairie du 18e-Jules Joffrin - Pigalle (Montmartrobus),,3,,,,
+100100283:ORLYBUS,442,ORLYBUS,Denfert-Rochereau - Aéroport d'Orly,,3,,,,
+100100097:PC1,442,PC1,Porte de Champerret - Pont du Garigliano,,3,,,,
+100100099:PC3,442,PC3,Porte Maillot - Porte de la Villette,,3,,,,
+100100352:ROISSYB,442,ROISSYB,Opéra - Aéroport CDG Roissypôle,,3,,,,
+100100571:SUBB,442,SUBB,Hotel de Ville de Boulogne-Billancourt - Pont de Boulogne-Billancourt (circulaire) (Service Urbain de Boulogne-Billancourt),,3,,,,
+100100515:TILLBUS,442,TILLBUS,Les Lilas Place du Vel' d'Hiv' — Les Lilas Place du Vel' d'Hiv' (circulaire) (service urbain des Lilas),,3,,,,
+100100569:TIM,442,TIM,Meudon Val Fleury - Gare de Bellevue (circulaire) (service urbain de Meudon),,3,,,,
+100100546:TUB,442,TUB,Bondy - La mare à la Veuve (circulaire) (Transport Urbain Bondynois),,3,,,,
+100100574:TUC,442,TUC,Rue Martre-Mairie de Clichy(circulaire) (Transport Urbain de Clichy),,3,,,,
+100100589:TUVIM,442,TUVIM,Mairie d'Issy - Mairie d'Issy (circulaire) (service urbain d'Issy-les-Moulineaux),,3,,,,
+100100014:TVM,442,TVM,La Croix de Berny - Saint-Maur Créteil,,3,,,,
+100100542:V1,442,V1,Mairie de l'Haÿ-les-Roses - Le Kremlin-Bicêtre Leclerc-Thomas,,3,,ffcd01,000000,oui
+100100583:V2,442,V2,Fresnes Pasteur - L'Haÿ-les-Roses Centre commercial - Chevilly-Larue Rue Paul Hochart,,3,,f59eb3,000000,oui
+100100581:V3,442,V3,Cachan Centre ville - Cachan Centre ville (circulaire),,3,,cec92a,000000,oui
+100100562:V4,442,V4,Arcueil Hôtel de Ville-Centre - Arcueil Hôtel de Ville-Centre (circulaire),,3,,652c90,ffffff,oui
+100100584:V5,442,V5,Gentilly Gabriel Péri Soleil Levant - Gentilly Gabriel Péri Soleil Levant (circulaire) ,,3,,008b5a,ffffff,oui
+100100593:V6,442,V6,Le Kremlin-Bicêtre Leclerc-Thomas - Le Kremlin-Bicêtre Leclerc-Thomas (circulaire),,3,,77c695,000000,oui
+100100585:V7,442,V7,Villejuif Louis Aragon - Villejuif Louis Aragon (circulaire) [Passepartout],,3,,ed1b2a,ffffff,oui
+100112011:T1,440,T1,Noisy-le-Sec - Asnieres-Gennevilliers Les Courtilles,,0,,216EB4,216EB4,oui
+100112012:T2,440,T2,Pont de Bezons - Porte de Versailles,,0,,BB4D98,BB4D98,oui
+100112013:T3A,440,T3A,Pont Garigliano Hôpital G. Pompidou - Porte de Vincennes,,0,,DE8B53,DE8B53,Oui
+100112003:T3B,440,T3B,Porte de Vincennes - Porte de la Chapelle,,0,,008B5A,008B5A,Oui
+100112015:T5,440,T5,Garges-Sarcelles - Marché de Saint-Denis,,0,,B156A1,B156A1,
+100112016:T6,440,T6,Châtillon Montrouge - Robert Wagner,,0,,ED5839,ED5839,
+100112017:T7,440,T7,Porte de l'Essonne - Villejuif Louis Aragon,,0,,B98B59,B98B59,
+100112018:T8,440,T8,Saint-Denis Porte de Paris - Villetaneuse - Épinay-sur-Seine,,0,,B1A245,B1A245,
+100110001:1,439,1,Château de Vincennes - La Défense,,1,,F2C931,000000,oui
+100110010:10,439,10,Boulogne Pont de Saint-Cloud - Gare d'Austerlitz,,1,,DFB039,000000,non
+100110011:11,439,11,Mairie des Lilas - Châtelet,,1,,8E6538,FFFFFF,non
+100110012:12,439,12,Mairie d'Issy - Front Populaire,,1,,328E5B,FFFFFF,non
+100110013:13,439,13,Châtillon Montrouge - Saint-Denis-Université,,1,,89C7D6,000000,non
+100110014:14,439,14,Saint-Lazare - Olympiade,,1,,67328E,FFFFFF,oui
+100110002:2,439,2,Nation - Porte Dauphine,,1,,216EB4,FFFFFF,non
+100110003:3,439,3,Gallieni - Pont de Levallois-Bécon,,1,,9A9940,FFFFFF,non
+100110103:3B,439,3B,Porte des Lilas - Gambetta,,1,,89C7D6,000000,non
+100110004:4,439,4,Porte de Clignancourt - Mairie de Montrouge,,1,,BB4D98,FFFFFF,non
+100110005:5,439,5,Bobigny-Pablo-Picasso - Place d'Italie,,1,,DE8B53,000000,non
+100110006:6,439,6, Nation - Charles de Gaulle-Etoile,,1,,79BB92,000000,non
+100110007:7,439,7,La Courneuve-8-Mai-1945 - Villejuif-Aragon / Mairie d'Ivry,,1,,DF9AB1,000000,non
+100110107:7B,439,7B,Pré-Saint-Gervais - Louis Blanc,,1,,79BB92,000000,non
+100110008:8,439,8,Balard - Créteil-Pointe du Lac,,1,,C5A3CA,000000,non
+100110009:9,439,9,Pont de Sèvres - Mairie de Montreuil,,1,,CDC83F,000000,non

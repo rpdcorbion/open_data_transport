@@ -1,0 +1,4 @@
+agency_id,agency_name,agency_url,agency_timezone,agency_lang,agency_phone
+100,RATP,http://www.ratp.fr/,CET,,
+110,Noctilien,http://www.ratp.fr/,CET,,
+120,RER,http://www.transilien.fr/,CET,,

@@ -1,0 +1,147 @@
+stop_id,stop_name,stop_lon,stop_lat
+StopArea:OCE71112102,gare de Alegria-de-alava, -2.514496,42.848807
+StopPoint:OCETrain-71112102,gare de Alegria-de-alava, -2.514496,42.848807
+StopArea:OCE71113000,gare de Alsasua, -2.167401,42.893293
+StopPoint:OCETrain-71113000,gare de Alsasua, -2.167401,42.893293
+StopArea:OCE71112136,gare de Araia,-2.3067648,42.8694561
+StopPoint:OCETrain-71112136,gare de Araia,-2.3067648,42.8694561
+StopArea:OCE71121053,gare de Arevalo, -4.702108,41.047109
+StopPoint:OCETrain-71121053,gare de Arevalo, -4.702108,41.047109
+StopArea:OCE71201004,gare de Astorga, -6.047376,42.459620
+StopPoint:OCETrain-71201004,gare de Astorga, -6.047376,42.459620
+StopArea:OCE71104000,gare de Avila, -4.683418,40.657258
+StopPoint:OCETrain-71104000,gare de Avila, -4.683418,40.657258
+StopArea:OCE71718010,gare de Barcelona - Sants,0.6562416,41.6161221
+StopPoint:OCETrain-71718010,gare de Barcelona - Sants,0.6562416,41.6161221
+StopArea:OCE71202110,gare de Barco Vald,0,0
+StopPoint:OCETrain-71202110,gare de Barco Vald,0,0
+StopArea:OCE71114041,gare de Beasain,-2.2022971,43.0462182
+StopPoint:OCETrain-71114041,gare de Beasain,-2.2022971,43.0462182
+StopArea:OCE71201111,gare de Bembibre, -6.421998,42.609537
+StopPoint:OCETrain-71201111,gare de Bembibre, -6.421998,42.609537
+StopArea:OCE71111096,gare de BRIVIESCA,-5.7116938,37.6611469
+StopPoint:OCETrain-71111096,gare de BRIVIESCA,-5.7116938,37.6611469
+StopArea:OCE71111000,gare de Burgos Rosa de Lima,-3.0298472,43.3286799
+StopArea:OCE71041046,gare de Camp de Tarragona,1.2725811,41.1920191
+StopPoint:OCETrain-71041046,gare de Camp de Tarragona,1.2725811,41.1920191
+StopArea:OCE71812008,gare de Castejon, -1.691863,42.172596
+StopPoint:OCETrain-71812008,gare de Castejon, -1.691863,42.172596
+StopArea:OCE94343301,gare de Caxarias, -8.544609,39.714063
+StopPoint:OCETrain-94343301,gare de Caxarias, -8.544609,39.714063
+StopArea:OCE94484055,gare de Celorico da Beira, -7.382411,40.665119
+StopPoint:OCETrain-94484055,gare de Celorico-da-Beira, -7.382411,40.665119
+StopArea:OCE71330134,gare de Ciudad Rodrigo,-6.4299092,40.6708888
+StopPoint:OCETrain-71330134,gare de Ciudad Rodrigo,-6.4299092,40.6708888
+StopArea:OCE94410200,gare de Coimbra, -8.432094,40.209143
+StopPoint:OCETrain-94410200,gare de Coimbra, -8.432094,40.209143
+StopArea:OCE71101030,gare de El Escorial,-3.6689494,40.4230941
+StopPoint:OCETrain-71101030,gare de El Escorial,-3.6689494,40.4230941
+StopArea:OCE94340091,gare de Entroncamento, -8.475821,39.460939
+StopPoint:OCETrain-94340091,gare de Entroncamento, -8.475821,39.460939
+StopArea:OCE71330160,gare de Fuentes de Onoro,-1.9946248,43.2917869
+StopPoint:OCETrain-71330160,gare de Fuentes de Onoro,-1.9946248,43.2917869
+StopArea:OCE71154104,gare de Gijon/Xixon,-5.6761272,43.5374889
+StopPoint:OCETrain-71154104,gare de Gijon/Xixon,-5.6761272,43.5374889
+StopArea:OCE94490078,gare de Guarda, -7.239947,40.552179
+StopPoint:OCETrain-94490078,gare de Guarda, -7.239947,40.552179
+StopArea:OCE71314120,gare de La Coruna-SC, -8.411509,43.351394
+StopPoint:OCETrain-71314120,gare de La Coruna-SC, -8.411509,43.351394
+StopArea:OCE71202135,gare de La Rua Petin, -7.113169,42.392728
+StopPoint:OCETrain-71202135,gare de La Rua Petin, -7.113169,42.392728
+StopArea:OCE71151068,gare de La-Robla, -5.626243,42.803814
+StopPoint:OCETrain-71151068,gare de La-Robla, -5.626243,42.803814
+StopArea:OCE71102079,gare de Las-Navas-Del-Marques,2.7015167,39.6044446
+StopPoint:OCETrain-71102079,gare de Las-Navas-Del-Marques,2.7015167,39.6044446
+StopArea:OCE71151000,gare de Leon, -5.582374,42.595870
+StopPoint:OCETrain-71151000,gare de Leon, -5.582374,42.595870
+StopArea:OCE71784009,gare de Lerida, 0.632788,41.620564
+StopPoint:OCETrain-71784009,gare de Lerida, 0.632788,41.620564
+StopArea:OCE71115162,gare de Lezo-Errenteria,-3.6748126,40.4012592
+StopPoint:OCETrain-71115162,gare de Lezo-Errenteria,-3.6748126,40.4012592
+StopArea:OCE94031039,gare de Lisboa-Oriente, -9.099195,38.767859
+StopPoint:OCETrain-94031039,gare de Lisboa-Oriente, -9.099195,38.767859
+StopArea:OCE94300070,gare de Lisboa-Santa-Apolonia, -9.123409,38.713638
+StopPoint:OCETrain-94300070,gare de Lisboa-Santa-Apolonia, -9.123409,38.713638
+StopArea:OCE71600000,gare de Madrid-Atocha, -3.691849,40.406856
+StopPoint:OCETrain-71600000,gare de Madrid-Atocha, -3.691849,40.406856
+StopArea:OCE94480095,gare de Mangualde, -7.760368,40.586648
+StopPoint:OCETrain-94480095,gare de Mangualde, -7.760368,40.586648
+StopArea:OCE71112037,gare de Manzanos,-2.980084,42.9869031
+StopPoint:OCETrain-71112037,gare de Manzanos,-2.980084,42.9869031
+StopArea:OCE71105000,gare de Medina del Campo,-4.9095981,41.3172683
+StopPoint:OCETrain-71105000,gare de Medina del Campo,-4.9095981,41.3172683
+StopArea:OCE71152033,gare de Mieres-Puente (RENFE),2.5265654,41.5686291
+StopPoint:OCETrain-71152033,gare de Mieres-Puente (RENFE),2.5265654,41.5686291
+StopArea:OCE71112003,gare de Miranda-de-Ebro, -2.940545,42.690776
+StopPoint:OCETrain-71112003,gare de Miranda-de-Ebro, -2.940545,42.690776
+StopArea:OCE71203000,gare de Monforte de Lemos,-3.7162153,40.3853148
+StopArea:OCE71112052,gare de Nanclares de la Oca / Langraiz-Oka,-2.8672974,42.7427638
+StopPoint:OCETrain-71112052,gare de Nanclares de la Oca / Langraiz-Oka,-2.8672974,42.7427638
+StopArea:OCE71102087,gare de Navalperal de Pinares,-4.4087149,40.5908979
+StopPoint:OCETrain-71102087,gare de Navalperal de Pinares,-4.4087149,40.5908979
+StopArea:OCE71114058,gare de Ordizia,3.1544662,42.4069138
+StopPoint:OCETrain-71114058,gare de Ordizia,3.1544662,42.4069138
+StopArea:OCE71221000,gare de Orense, -7.872447,42.350279
+StopPoint:OCETrain-71221000,gare de Orense, -7.872447,42.350279
+StopArea:OCE71152116,gare de Oviedo (RENFE),-5.8272326,43.3882342
+StopPoint:OCETrain-71152116,gare de Oviedo (RENFE),-5.8272326,43.3882342
+StopArea:OCE71103002,gare de Palazuelo, -5.533802,42.707133
+StopPoint:OCETrain-71103002,gare de Palazuelo, -5.533802,42.707133
+StopArea:OCE71141000,gare de Palencia,1.9955472,41.4207822
+StopPoint:OCETrain-71141000,gare de Palencia,1.9955472,41.4207822
+StopArea:OCE71801001,gare de Pamplona / IruÃ±a,-3.6961919,40.4698795
+StopPoint:OCETrain-71801001,gare de Pamplona / IruÃ±a,-3.6961919,40.4698795
+StopArea:OCE71111112,gare de Pancorbo,-4.4710721,36.7172089
+StopPoint:OCETrain-71111112,gare de Pancorbo,-4.4710721,36.7172089
+StopArea:OCE71115154,gare de PASAJES,0,0
+StopPoint:OCETrain-71115154,gare de PASAJES,0,0
+StopArea:OCE71151225,gare de Pola-de-lena, -5.831136,43.159062
+StopPoint:OCETrain-71151225,gare de Pola-de-lena, -5.831136,43.159062
+StopArea:OCE94346452,gare de Pombal, -8.630436,39.918574
+StopPoint:OCETrain-94346452,gare de Pombal, -8.630436,39.918574
+StopArea:OCE71202002,gare de Ponferrada, -6.602363,42.545329
+StopPoint:OCETrain-71202002,gare de Ponferrada, -6.602363,42.545329
+StopArea:OCE71222018,gare de Porrino, -8.622078,42.164141
+StopPoint:OCETrain-71222018,gare de Porrino, -8.622078,42.164141
+StopArea:OCE71223008,gare de Redondela de Galicia,-4.7591249,36.9070296
+StopPoint:OCETrain-71223008,gare de Redondela de Galicia,-4.7591249,36.9070296
+StopArea:OCE71102053,gare de Robledo de Chavela,-4.0670806,40.7070748
+StopPoint:OCETrain-71102053,gare de Robledo de Chavela,-4.0670806,40.7070748
+StopArea:OCE71150094,gare de Sahagun, -5.022529,42.369264
+StopPoint:OCETrain-71150094,gare de Sahagun, -5.022529,42.369264
+StopArea:OCE71301002,gare de Salamanca,-5.6855738,43.3102968
+StopPoint:OCETrain-71301002,gare de Salamanca,-5.6855738,43.3102968
+StopArea:OCE71112128,gare de Salvatierra-de-alava, -2.389273,42.846398
+StopPoint:OCETrain-71112128,gare de Salvatierra-de-alava, -2.389273,42.846398
+StopArea:OCE71202168,gare de San Clodio-Quiroga,2.4017511,41.5067436
+StopPoint:OCETrain-71202168,gare de San Clodio-Quiroga,2.4017511,41.5067436
+StopArea:OCE94463679,gare de Santa Comba-Dao, -8.124585,40.390146
+StopPoint:OCETrain-94463679,gare de Santa-Comba-Dao, -8.124585,40.390146
+StopArea:OCE71102061,gare de Santa MarÃ­a de la Alameda,-3.6633118,40.4308415
+StopPoint:OCETrain-71102061,gare de Santa MarÃ­a de la Alameda,-3.6633118,40.4308415
+StopArea:OCE71314000,gare de Santiago de Compostela,-0.2263709,39.0790031
+StopPoint:OCETrain-71314000,gare de Santiago de Compostela,-0.2263709,39.0790031
+StopArea:OCE71080044,gare de Segovia,-4.1132725,40.9340244
+StopPoint:OCETrain-71080044,gare de Segovia,-4.1132725,40.9340244
+StopArea:OCE71801084,gare de Tafalla,2.073367,41.3042445
+StopPoint:OCETrain-71801084,gare de Tafalla,2.073367,41.3042445
+StopArea:OCE71115006,gare de Tolosa,-2.0790882,43.1354954
+StopPoint:OCETrain-71115006,gare de Tolosa,-2.0790882,43.1354954
+StopArea:OCE71812024,gare de Tudela,-3.7010503,40.4262323
+StopPoint:OCETrain-71812024,gare de Tudela,-3.7010503,40.4262323
+StopArea:OCE71110000,gare de Venta de BaÃ±os,-1.6362064,42.7546944
+StopPoint:OCETrain-71110000,gare de Venta de BaÃ±os,-1.6362064,42.7546944
+StopArea:OCE71223081,gare de Vigo-Guixar, -8.711702,42.239547
+StopPoint:OCETrain-71223081,gare de Vigo-Guixar, -8.711702,42.239547
+StopArea:OCE94454603,gare de Vilar-Formoso, -6.828978,40.606179
+StopPoint:OCETrain-94454603,gare de Vilar-Formoso, -6.828978,40.606179
+StopArea:OCE71102004,gare de Villalba-de-Guadarrama, -4.008262,40.626615
+StopPoint:OCETrain-71102004,gare de Villalba-de-Guadarrama, -4.008262,40.626615
+StopArea:OCE71040402,gare de Zaragoza-Delicias,0.1484671,41.9059598
+StopPoint:OCETrain-71040402,gare de Zaragoza-Delicias,0.1484671,41.9059598
+StopArea:OCE71710000,gare de Zaragoza-Delicias,0.1484671,41.9059598
+StopPoint:OCETrain-71710000,gare de Zaragoza-Delicias,0.1484671,41.9059598
+StopArea:OCE71102046,gare de Zarzalejo,-1.9884402,43.2475209
+StopPoint:OCETrain-71102046,gare de Zarzalejo,-1.9884402,43.2475209
+StopArea:OCE71114009,gare de Zumarraga,-2.9871043,43.3148202
+StopPoint:OCETrain-71114009,gare de Zumarraga,-2.9871043,43.3148202
