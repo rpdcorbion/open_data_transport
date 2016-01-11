@@ -2,6 +2,18 @@ __author__ = 'rpdcorbion'
 
 import codecs, csv, os
 import sys
+maxInt = sys.maxsize
+decrement = True
+while decrement:
+    # decrease the maxInt value by factor 10
+    # as long as the OverflowError occurs.
+    decrement = False
+    try:
+        csv.field_size_limit(maxInt)
+    except OverflowError:
+        maxInt = int(maxInt/10)
+        decrement = True
+
 
 sys.path.append("../lib")
 from functions import csv_list_to_raw_str, findposition, unzip
@@ -22,29 +34,32 @@ def merger(files,env_to_merge, dossier_work, separateurcsv=','):
         temp=csv_list_to_raw_str(header)
         output.write(temp)
         for environement in env_to_merge:
-            marker=environement.replace('-','_')+':'
-            file = codecs.open(dossier_work+environement+'/'+fichier[0]+'.txt', 'r', 'utf-8')
-            reader = csv.reader(file, delimiter=separateurcsv, quoting=csv.QUOTE_MINIMAL)
-            count=0
-            positions=[]
-            for row in reader:
-                if count==0:
-                    for champs in fichier[1]:
-                        positions.append(findposition(champs[0],row)) #Find position of every fields
-                else:
-                    row_to_write=[]
-                    i=0
-                    for champs in fichier[1]:
-                        if positions[i]!=999:
-                            value=row[positions[i]]
-                            if champs[1]==1:
-                                value=marker+value
-                        else:
-                            value=''
-                        row_to_write.append(value)
-                        i+=1
-                    temp=csv_list_to_raw_str(row_to_write)
-                    output.write(temp)
-                count+=1
+            if os.path.isfile(dossier_work+environement+'/'+fichier[0]+'.txt'):
+                marker=environement.replace('-','_')+':'
+                file = codecs.open(dossier_work+environement+'/'+fichier[0]+'.txt', 'r', 'utf-8')
+                reader = csv.reader(file, delimiter=separateurcsv, quoting=csv.QUOTE_MINIMAL)
+                count=0
+                positions=[]
+                for row in reader:
+                    if count==0:
+                        for champs in fichier[1]:
+                             positions.append(findposition(champs[0],row)) #Find position of every fields
+                    else:
+                        row_to_write=[]
+                        i=0
+                        for champs in fichier[1]:
+                            if positions[i]!=999:
+                                value=row[positions[i]]
+                                if champs[1]==1:
+                                    value=marker+value
+                            else:
+                                value=''
+                            row_to_write.append(value)
+                            i+=1
+                        temp=csv_list_to_raw_str(row_to_write)
+                        output.write(temp)
+                    count+=1
+            else:
+                print("FILE "+environement+" - "+fichier[0]+" NOT EXIST")
 
 
