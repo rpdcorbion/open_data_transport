@@ -1,0 +1,278 @@
+stop_id,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type,parent_station
+StopArea:OCE87644195,Loches-St-Jacques,,,,,,1,
+StopArea:OCE87644187,Loches-Lycee-St-Denis,,,,,,1,
+StopArea:OCE87644179,Loches-LEP,,,,,,1,
+StopArea:OCE87644039,Azay-Rivieres,,,,,,1,
+StopArea:OCE87644237,Reignac-Jonquilles,,,,,,1,
+StopArea:OCE87689745,Reignac-Bourg-Du-Fau,,,,,,1,
+StopArea:OCE87688960,Courcay-Eglise,,,,,,1,
+StopArea:OCE87644104,Courcay-Rouvre,,,,,,1,
+StopArea:OCE87644153,Esvres-St-Malo,,,,,,1,
+StopArea:OCE87644138,Esvres-Chene-Pendu,,,,,,1,
+StopArea:OCE87688978,Chambray-Lycée-Agricole,,,,,,1,
+StopArea:OCE87644070,Chambray-Trousseau,,,,,,1,
+StopArea:OCE87644161,Esvres-Vauguinier,,,,,,1,
+StopArea:OCE87644146,Esvres-Les-Recais,,,,,,1,
+StopArea:OCE87644120,Esvres-Champgault,,,,,,1,
+StopArea:OCE87693622,Limoges-Place-Jourdan,,,,,,1,
+StopArea:OCE87693630,Limoges-CIEL,,,,,,1,
+StopArea:OCE87693580,Limoges-Chastaing,,,,,,1,
+StopArea:OCE87157958,St-Just-Le-Martel-Les-C,,,,,,1,
+StopArea:OCE87157941,St-Just-Le-Martel-Le-Ve,,,,,,1,
+StopArea:OCE87693804,St-Léonard-De-Noblat-Po,,,,,,1,
+StopArea:OCE87693762,St-Léonard-De-Noblat,,,,,,1,
+StopArea:OCE87693770,St-Léonard-De-Noblat-Ey,,,,,,1,
+StopArea:OCE87693028,Moissannes-Route-de-Moi,,,,,,1,
+StopArea:OCE87693051,St-Amand-Jartoudeix-Nou,,,,,,1,
+StopArea:OCE87692715,Chavanat-Charbonnierr,,,,,,1,
+StopArea:OCE87693713,Moutiers-Rozeille-Cr-Bl,,,,,,1,
+StopArea:OCE87693440,Felletin-Mairie,,,,,,1,
+StopArea:OCE87410712,Meulan-Arquebuse,,,,,,1,
+StopArea:OCE87410696,Meulan-Place-du-Vexin,,,,,,1,
+StopArea:OCE87193904,gare de Forbach-Fre,,,,,,1,
+StopArea:OCE87693218,Le-Mont-Dore-Centre,,,,,,1,
+StopArea:OCE87680728,Fix-St-Geneys-RN102.,,,,,,1,
+StopArea:OCE87680504,Les-Trilliers-PN-Car.,,,,,,1,
+StopArea:OCE87680595,St-Gervais-Ch-LPA.,,,,,,1,
+StopArea:OCE87693291,Le-Mont-Dore-Ski,,,,,,1,
+StopArea:OCE87691279,Theix-Centre,,,,,,1,
+StopArea:OCE87680553,Riom_Es_M_la_Poste.,,,,,,1,
+StopArea:OCE87687400,Coubladour-Rond-Point,,,,,,1,
+StopArea:OCE87686634,La-Sauvanie,,,,,,1,
+StopArea:OCE87686600,Puy-Guillaume-Emmaüs,,,,,,1,
+StopArea:OCE87686576,Noiretable-M-Morts,,,,,,1,
+StopArea:OCE87676833,St-Eloi-Eglise,,,,,,1,
+StopArea:OCE87668111,Montbeugny-Centre,,,,,,1,
+StopArea:OCE87666099,Chamelet-Centre.,,,,,,1,
+StopArea:OCE87397950,Santec,,,,,,1,
+StopArea:OCE87478339,Kernevel-Centre,,,,,,1,
+StopArea:OCE87474692,Guiscriff,,,,,,1,
+StopArea:OCE87580944,Fougères-Carnot,,,,,,1,
+StopArea:OCE87689729,Monnaie-Gendarmerie,,,,,,1,
+StopArea:OCE87688929,Auneau-Résistance,,,,,,1,
+StopArea:OCE87643965,Auneau-Piscine,,,,,,1,
+StopArea:OCE87643973,Auneau-Texier-Gallas,,,,,,1,
+StopArea:OCE87690248,Châteaudun-LEP-Paulsen,,,,,,1,
+StopArea:OCE87644088,Chateau-Renault-ZI,,,,,,1,
+StopArea:OCE87643908,Chouzy-Mairie,,,,,,1,
+StopArea:OCE87635862,Les-Islettes-Centre,,,,,,1,
+StopArea:OCE87643197,Suippes-Ferme,,,,,,1,
+StopArea:OCE87690396,Montfey,,,,,,1,
+StopArea:OCE87515601,Longeville-Sur-Mogne-Ma,,,,,,1,
+StopArea:OCE87117945,St-Germain (Aube) M.,,,,,,1,
+StopArea:OCE87659672,Fayl-Billot-H.-Routiere,,,,,,1,
+StopArea:OCE87659706,Pagnoz-Halte-Routiere.,,,,,,1,
+StopArea:OCE87659680,Marnoz-Halte-Routiere.,,,,,,1,
+StopArea:OCE87659664,Dompierre-Halte-Rout.,,,,,,1,
+StopArea:OCE87659631,Bouverans-Halte-Routier,,,,,,1,
+StopArea:OCE87685784,Les-Tavins,,,,,,1,
+StopArea:OCE87691378,St-Sauveur-Halte-Rout,,,,,,1,
+StopArea:OCE87691386,Comberjon-HR,,,,,,1,
+StopArea:OCE87450064,Meymac-Bourg,,,,,,1,
+StopArea:OCE87407098,Réchicourt-le-Chateau c,,,,,,1,
+StopArea:OCE87215137,Gondrexange,,,,,,1,
+StopArea:OCE87405746,Neufchâteau (Hôpital),,,,,,1,
+StopArea:OCE87458869,Neufchateau-Lp,,,,,,1,
+StopArea:OCE87157016,Montbazens,,,,,,1,
+StopArea:OCE87691576,La-Cluse-Ville,,,,,,1,
+StopArea:OCE87690164,Chinon-LEP-Cugnot,,,,,,1,
+StopArea:OCE87690172,Chinon-Lycée-Rabelais,,,,,,1,
+StopArea:OCE87644013,St-Pellerin-Mairie,,,,,,1,
+StopArea:OCE87644005,Mondoubleau-Rue-Leroy,,,,,,1,
+StopArea:OCE87690198,Gien-Place-St-Louis,,,,,,1,
+StopArea:OCE87690180,Gien-Hôpital,,,,,,1,
+StopArea:OCE87499863,Cosne-sur-Loire-Sud,,,,,,1,
+StopArea:OCE87643882,St-Satur-Fontenay,,,,,,1,
+StopArea:OCE87454249,Bourges-Gare-Routière,,,,,,1,
+StopArea:OCE87643726,Bigny-Place-Bascoulard,,,,,,1,
+StopArea:OCE87689422,Avail-Halte,,,,,,1,
+StopArea:OCE87689935,Issoudun-Jardin,,,,,,1,
+StopArea:OCE87689653,Montierchaume-Couturier,,,,,,1,
+StopArea:OCE87689943,Romorantin-Lycée-de-F,,,,,,1,
+StopArea:OCE87643775,Lamotte-Beuvron-College,,,,,,1,
+StopArea:OCE87689976,Châteauroux-Ly-B-Pascal,,,,,,1,
+StopArea:OCE87689992,Châteauroux-Charmilles,,,,,,1,
+StopArea:OCE87689513,Châteauroux-Médiathèque,,,,,,1,
+StopArea:OCE87690107,Châteauroux-P-M-Curie,,,,,,1,
+StopArea:OCE87689968,Châteauroux-Lycée-Agric,,,,,,1,
+StopArea:OCE87643841,St-Aignan-Quai-Delorme,,,,,,1,
+StopArea:OCE87643833,St-Aignan-Pl-Wilson,,,,,,1,
+StopArea:OCE87643825,St-Aignan-Lep,,,,,,1,
+StopArea:OCE87644054,Buzancais-Croissant,,,,,,1,
+StopArea:OCE87644344,Villedieu-Eglise,,,,,,1,
+StopArea:OCE87644062,Buzancais-Sapin-Vert,,,,,,1,
+StopArea:OCE87690156,Châteauroux-Préfecture,,,,,,1,
+StopArea:OCE87689950,Châteauroux-Crx-Perrine,,,,,,1,
+StopArea:OCE87644351,Villedieu-Golf,,,,,,1,
+StopArea:OCE87644369,Villedieu-Le-Pouillou,,,,,,1,
+StopArea:OCE87644260,St-Genou-ZI,,,,,,1,
+StopArea:OCE87644245,St-Genou-Brisepaille,,,,,,1,
+StopArea:OCE87688952,Chatillon-Hôtel,,,,,,1,
+StopArea:OCE87644096,Chatillon-Mail,,,,,,1,
+StopArea:OCE87644047,Bridore-St-Martin,,,,,,1,
+StopArea:OCE87688945,Verneuil-Laiterie,,,,,,1,
+StopArea:OCE87644286,St-Jean-Hotel,,,,,,1,
+StopArea:OCE87644203,Loches-Agnès-Sorel,,,,,,1,
+StopArea:OCE87689703,Palluau-Onzay,,,,,,1,
+StopArea:OCE87644252,St-Genou-Ecole,,,,,,1,
+StopArea:OCE87644211,Niherne-Centre,,,,,,1,
+StopArea:OCE87644328,Truyes-St-Blaise,,,,,,1,
+StopArea:OCE87644310,Truyes-Pl-Du-Souvenir,,,,,,1,
+StopArea:OCE87644112,Courcay-Villetivrain,,,,,,1,
+StopArea:OCE87689984,Châteauroux-L-Giraudoux,,,,,,1,
+StopArea:OCE87690271,Romorantin-Villefranche,,,,,,1,
+StopArea:OCE87437087,Romorantin-Plaisance,,,,,,1,
+StopArea:OCE87690313,Villefranche-Aubrier,,,,,,1,
+StopArea:OCE87402016,Villefranche / Cher G.R,,,,,,1,
+StopArea:OCE87690305,Villefranche-La-Croix-F,,,,,,1,
+StopArea:OCE87690230,Chatres-Zelie-Fouquet,,,,,,1,
+StopArea:OCE87690289,Thenioux-Les-Forges,,,,,,1,
+StopArea:OCE87690297,Vierzon-Hôpital,,,,,,1,
+StopArea:OCE87437376,Vierzon-Bibliothèque,,,,,,1,
+StopArea:OCE80251967,gare de Perl,,,,,,1,
+StopArea:OCE80251850,gare de Konz-Mitte,,,,,,1,
+StopArea:OCE85010066,gare de Vernier-Meyrin,,,,,,1,
+StopArea:OCE87172171,gare de Poix-Terron,,,,,,1,
+StopArea:OCE87111567,Rodange.,,,,,,1,
+StopArea:OCE80194266,gare de Landau-Pfalz-Hbf,,,,,,1,
+StopArea:OCE87417444,gare de Franchet-D'espèrey,,,,,,1,
+StopArea:OCE87710731,gare de Ecole-Valentin,,,,,,1,
+StopPoint:OCECar TER-87644195,Loches-St-Jacques,,,,,,0,StopArea:OCE87644195
+StopPoint:OCECar TER-87644187,Loches-Lycee-St-Denis,,,,,,0,StopArea:OCE87644187
+StopPoint:OCECar TER-87644179,Loches-LEP,,,,,,0,StopArea:OCE87644179
+StopPoint:OCECar TER-87644039,Azay-Rivieres,,,,,,0,StopArea:OCE87644039
+StopPoint:OCECar TER-87644237,Reignac-Jonquilles,,,,,,0,StopArea:OCE87644237
+StopPoint:OCECar TER-87689745,Reignac-Bourg-Du-Fau,,,,,,0,StopArea:OCE87689745
+StopPoint:OCECar TER-87688960,Courcay-Eglise,,,,,,0,StopArea:OCE87688960
+StopPoint:OCECar TER-87644104,Courcay-Rouvre,,,,,,0,StopArea:OCE87644104
+StopPoint:OCECar TER-87644153,Esvres-St-Malo,,,,,,0,StopArea:OCE87644153
+StopPoint:OCECar TER-87644138,Esvres-Chene-Pendu,,,,,,0,StopArea:OCE87644138
+StopPoint:OCECar TER-87688978,Chambray-Lycée-Agricole,,,,,,0,StopArea:OCE87688978
+StopPoint:OCECar TER-87644070,Chambray-Trousseau,,,,,,0,StopArea:OCE87644070
+StopPoint:OCECar TER-87644161,Esvres-Vauguinier,,,,,,0,StopArea:OCE87644161
+StopPoint:OCECar TER-87644146,Esvres-Les-Recais,,,,,,0,StopArea:OCE87644146
+StopPoint:OCECar TER-87644120,Esvres-Champgault,,,,,,0,StopArea:OCE87644120
+StopPoint:OCECar TER-87693622,Limoges-Place-Jourdan,,,,,,0,StopArea:OCE87693622
+StopPoint:OCECar TER-87693630,Limoges-CIEL,,,,,,0,StopArea:OCE87693630
+StopPoint:OCECar TER-87693580,Limoges-Chastaing,,,,,,0,StopArea:OCE87693580
+StopPoint:OCECar TER-87157958,St-Just-Le-Martel-Les-C,,,,,,0,StopArea:OCE87157958
+StopPoint:OCECar TER-87157941,St-Just-Le-Martel-Le-Ve,,,,,,0,StopArea:OCE87157941
+StopPoint:OCECar TER-87693804,St-Léonard-De-Noblat-Po,,,,,,0,StopArea:OCE87693804
+StopPoint:OCECar TER-87693762,St-Léonard-De-Noblat,,,,,,0,StopArea:OCE87693762
+StopPoint:OCECar TER-87693770,St-Léonard-De-Noblat-Ey,,,,,,0,StopArea:OCE87693770
+StopPoint:OCECar TER-87693028,Moissannes-Route-de-Moi,,,,,,0,StopArea:OCE87693028
+StopPoint:OCECar TER-87693051,St-Amand-Jartoudeix-Nou,,,,,,0,StopArea:OCE87693051
+StopPoint:OCECar TER-87692715,Chavanat-Charbonnierr,,,,,,0,StopArea:OCE87692715
+StopPoint:OCECar TER-87693713,Moutiers-Rozeille-Cr-Bl,,,,,,0,StopArea:OCE87693713
+StopPoint:OCECar TER-87693440,Felletin-Mairie,,,,,,0,StopArea:OCE87693440
+StopPoint:OCECar TER-87410712,Meulan-Arquebuse,,,,,,0,StopArea:OCE87410712
+StopPoint:OCECar TER-87410696,Meulan-Place-du-Vexin,,,,,,0,StopArea:OCE87410696
+StopPoint:OCETrain TER-87193904,gare de Forbach-Fre,,,,,,0,StopArea:OCE87193904
+StopPoint:OCECar TER-87693218,Le-Mont-Dore-Centre,,,,,,0,StopArea:OCE87693218
+StopPoint:OCECar TER-87680728,Fix-St-Geneys-RN102.,,,,,,0,StopArea:OCE87680728
+StopPoint:OCECar TER-87680504,Les-Trilliers-PN-Car.,,,,,,0,StopArea:OCE87680504
+StopPoint:OCECar TER-87680595,St-Gervais-Ch-LPA.,,,,,,0,StopArea:OCE87680595
+StopPoint:OCECar TER-87693291,Le-Mont-Dore-Ski,,,,,,0,StopArea:OCE87693291
+StopPoint:OCECar TER-87691279,Theix-Centre,,,,,,0,StopArea:OCE87691279
+StopPoint:OCECar TER-87680553,Riom_Es_M_la_Poste.,,,,,,0,StopArea:OCE87680553
+StopPoint:OCECar TER-87687400,Coubladour-Rond-Point,,,,,,0,StopArea:OCE87687400
+StopPoint:OCECar TER-87686634,La-Sauvanie,,,,,,0,StopArea:OCE87686634
+StopPoint:OCECar TER-87686600,Puy-Guillaume-Emmaüs,,,,,,0,StopArea:OCE87686600
+StopPoint:OCECar TER-87686576,Noiretable-M-Morts,,,,,,0,StopArea:OCE87686576
+StopPoint:OCECar TER-87676833,St-Eloi-Eglise,,,,,,0,StopArea:OCE87676833
+StopPoint:OCECar TER-87666099,Chamelet-Centre.,,,,,,0,StopArea:OCE87666099
+StopPoint:OCECar TER-87397950,Santec,,,,,,0,StopArea:OCE87397950
+StopPoint:OCECar TER-87478339,Kernevel-Centre,,,,,,0,StopArea:OCE87478339
+StopPoint:OCECar TER-87474692,Guiscriff,,,,,,0,StopArea:OCE87474692
+StopPoint:OCECar TER-87580944,Fougères-Carnot,,,,,,0,StopArea:OCE87580944
+StopPoint:OCECar TER-87689729,Monnaie-Gendarmerie,,,,,,0,StopArea:OCE87689729
+StopPoint:OCECar TER-87688929,Auneau-Résistance,,,,,,0,StopArea:OCE87688929
+StopPoint:OCECar TER-87643965,Auneau-Piscine,,,,,,0,StopArea:OCE87643965
+StopPoint:OCECar TER-87643973,Auneau-Texier-Gallas,,,,,,0,StopArea:OCE87643973
+StopPoint:OCECar TER-87690248,Châteaudun-LEP-Paulsen,,,,,,0,StopArea:OCE87690248
+StopPoint:OCECar TER-87644088,Chateau-Renault-ZI,,,,,,0,StopArea:OCE87644088
+StopPoint:OCECar TER-87643908,Chouzy-Mairie,,,,,,0,StopArea:OCE87643908
+StopPoint:OCECar TER-87635862,Les-Islettes-Centre,,,,,,0,StopArea:OCE87635862
+StopPoint:OCECar TER-87643197,Suippes-Ferme,,,,,,0,StopArea:OCE87643197
+StopPoint:OCECar TER-87690396,Montfey,,,,,,0,StopArea:OCE87690396
+StopPoint:OCECar TER-87515601,Longeville-Sur-Mogne-Ma,,,,,,0,StopArea:OCE87515601
+StopPoint:OCECar TER-87117945,St-Germain (Aube) M.,,,,,,0,StopArea:OCE87117945
+StopPoint:OCECar TER-87659672,Fayl-Billot-H.-Routiere,,,,,,0,StopArea:OCE87659672
+StopPoint:OCECar TER-87659706,Pagnoz-Halte-Routiere.,,,,,,0,StopArea:OCE87659706
+StopPoint:OCECar TER-87659680,Marnoz-Halte-Routiere.,,,,,,0,StopArea:OCE87659680
+StopPoint:OCECar TER-87659664,Dompierre-Halte-Rout.,,,,,,0,StopArea:OCE87659664
+StopPoint:OCECar TER-87659631,Bouverans-Halte-Routier,,,,,,0,StopArea:OCE87659631
+StopPoint:OCECar TER-87685784,Les-Tavins,,,,,,0,StopArea:OCE87685784
+StopPoint:OCECar TER-87691378,St-Sauveur-Halte-Rout,,,,,,0,StopArea:OCE87691378
+StopPoint:OCECar TER-87691386,Comberjon-HR,,,,,,0,StopArea:OCE87691386
+StopPoint:OCECar TER-87450064,Meymac-Bourg,,,,,,0,StopArea:OCE87450064
+StopPoint:OCECar TER-87594481,Cornil Arrêt Routier,,,,,,0,StopArea:OCE87594481
+StopPoint:OCECar TER-87407098,Réchicourt-le-Chateau c,,,,,,0,StopArea:OCE87407098
+StopPoint:OCECar TER-87215137,Gondrexange,,,,,,0,StopArea:OCE87215137
+StopPoint:OCECar TER-87405746,Neufchâteau (Hôpital),,,,,,0,StopArea:OCE87405746
+StopPoint:OCECar TER-87458869,Neufchateau-Lp,,,,,,0,StopArea:OCE87458869
+StopPoint:OCECar TER-87157016,Montbazens,,,,,,0,StopArea:OCE87157016
+StopPoint:OCECar TER-87691576,La-Cluse-Ville,,,,,,0,StopArea:OCE87691576
+StopPoint:OCECar TER-87690164,Chinon-LEP-Cugnot,,,,,,0,StopArea:OCE87690164
+StopPoint:OCECar TER-87690172,Chinon-Lycée-Rabelais,,,,,,0,StopArea:OCE87690172
+StopPoint:OCECar TER-87644013,St-Pellerin-Mairie,,,,,,0,StopArea:OCE87644013
+StopPoint:OCECar TER-87644005,Mondoubleau-Rue-Leroy,,,,,,0,StopArea:OCE87644005
+StopPoint:OCECar TER-87690198,Gien-Place-St-Louis,,,,,,0,StopArea:OCE87690198
+StopPoint:OCECar TER-87690180,Gien-Hôpital,,,,,,0,StopArea:OCE87690180
+StopPoint:OCECar TER-87499863,Cosne-sur-Loire-Sud,,,,,,0,StopArea:OCE87499863
+StopPoint:OCECar TER-87643882,St-Satur-Fontenay,,,,,,0,StopArea:OCE87643882
+StopPoint:OCECar TER-87454249,Bourges-Gare-Routière,,,,,,0,StopArea:OCE87454249
+StopPoint:OCECar TER-87643726,Bigny-Place-Bascoulard,,,,,,0,StopArea:OCE87643726
+StopPoint:OCECar TER-87689422,Avail-Halte,,,,,,0,StopArea:OCE87689422
+StopPoint:OCECar TER-87689935,Issoudun-Jardin,,,,,,0,StopArea:OCE87689935
+StopPoint:OCECar TER-87689653,Montierchaume-Couturier,,,,,,0,StopArea:OCE87689653
+StopPoint:OCECar TER-87689943,Romorantin-Lycée-de-F,,,,,,0,StopArea:OCE87689943
+StopPoint:OCECar TER-87643775,Lamotte-Beuvron-College,,,,,,0,StopArea:OCE87643775
+StopPoint:OCECar TER-87689976,Châteauroux-Ly-B-Pascal,,,,,,0,StopArea:OCE87689976
+StopPoint:OCECar TER-87689992,Châteauroux-Charmilles,,,,,,0,StopArea:OCE87689992
+StopPoint:OCECar TER-87689513,Châteauroux-Médiathèque,,,,,,0,StopArea:OCE87689513
+StopPoint:OCECar TER-87690107,Châteauroux-P-M-Curie,,,,,,0,StopArea:OCE87690107
+StopPoint:OCECar TER-87689968,Châteauroux-Lycée-Agric,,,,,,0,StopArea:OCE87689968
+StopPoint:OCECar TER-87643841,St-Aignan-Quai-Delorme,,,,,,0,StopArea:OCE87643841
+StopPoint:OCECar TER-87643833,St-Aignan-Pl-Wilson,,,,,,0,StopArea:OCE87643833
+StopPoint:OCECar TER-87643825,St-Aignan-Lep,,,,,,0,StopArea:OCE87643825
+StopPoint:OCECar TER-87644054,Buzancais-Croissant,,,,,,0,StopArea:OCE87644054
+StopPoint:OCECar TER-87644344,Villedieu-Eglise,,,,,,0,StopArea:OCE87644344
+StopPoint:OCECar TER-87644062,Buzancais-Sapin-Vert,,,,,,0,StopArea:OCE87644062
+StopPoint:OCECar TER-87690156,Châteauroux-Préfecture,,,,,,0,StopArea:OCE87690156
+StopPoint:OCECar TER-87689950,Châteauroux-Crx-Perrine,,,,,,0,StopArea:OCE87689950
+StopPoint:OCECar TER-87644351,Villedieu-Golf,,,,,,0,StopArea:OCE87644351
+StopPoint:OCECar TER-87644369,Villedieu-Le-Pouillou,,,,,,0,StopArea:OCE87644369
+StopPoint:OCECar TER-87644260,St-Genou-ZI,,,,,,0,StopArea:OCE87644260
+StopPoint:OCECar TER-87644245,St-Genou-Brisepaille,,,,,,0,StopArea:OCE87644245
+StopPoint:OCECar TER-87688952,Chatillon-Hôtel,,,,,,0,StopArea:OCE87688952
+StopPoint:OCECar TER-87644096,Chatillon-Mail,,,,,,0,StopArea:OCE87644096
+StopPoint:OCECar TER-87644047,Bridore-St-Martin,,,,,,0,StopArea:OCE87644047
+StopPoint:OCECar TER-87688945,Verneuil-Laiterie,,,,,,0,StopArea:OCE87688945
+StopPoint:OCECar TER-87644286,St-Jean-Hotel,,,,,,0,StopArea:OCE87644286
+StopPoint:OCECar TER-87644203,Loches-Agnès-Sorel,,,,,,0,StopArea:OCE87644203
+StopPoint:OCECar TER-87689703,Palluau-Onzay,,,,,,0,StopArea:OCE87689703
+StopPoint:OCECar TER-87644252,St-Genou-Ecole,,,,,,0,StopArea:OCE87644252
+StopPoint:OCECar TER-87644211,Niherne-Centre,,,,,,0,StopArea:OCE87644211
+StopPoint:OCECar TER-87644328,Truyes-St-Blaise,,,,,,0,StopArea:OCE87644328
+StopPoint:OCECar TER-87644310,Truyes-Pl-Du-Souvenir,,,,,,0,StopArea:OCE87644310
+StopPoint:OCECar TER-87644112,Courcay-Villetivrain,,,,,,0,StopArea:OCE87644112
+StopPoint:OCECar TER-87689984,Châteauroux-L-Giraudoux,,,,,,0,StopArea:OCE87689984
+StopPoint:OCECar TER-87690271,Romorantin-Villefranche,,,,,,0,StopArea:OCE87690271
+StopPoint:OCECar TER-87437087,Romorantin-Plaisance,,,,,,0,StopArea:OCE87437087
+StopPoint:OCECar TER-87690313,Villefranche-Aubrier,,,,,,0,StopArea:OCE87690313
+StopPoint:OCECar TER-87402016,Villefranche / Cher G.R,,,,,,0,StopArea:OCE87402016
+StopPoint:OCECar TER-87690305,Villefranche-La-Croix-F,,,,,,0,StopArea:OCE87690305
+StopPoint:OCECar TER-87690230,Chatres-Zelie-Fouquet,,,,,,0,StopArea:OCE87690230
+StopPoint:OCECar TER-87690289,Thenioux-Les-Forges,,,,,,0,StopArea:OCE87690289
+StopPoint:OCECar TER-87690297,Vierzon-Hôpital,,,,,,0,StopArea:OCE87690297
+StopPoint:OCECar TER-87437376,Vierzon-Bibliothèque,,,,,,0,StopArea:OCE87437376
+StopPoint:OCETrain TER-80251967,gare de Perl,,,,,,0,StopArea:OCE80251967
+StopPoint:OCETrain TER-80251850,gare de Konz-Mitte,,,,,,0,StopArea:OCE80251850
+StopPoint:OCETrain TER-85010066,gare de Vernier-Meyrin,,,,,,0,StopArea:OCE85010066
+StopPoint:OCECar TER-87172171,gare de Poix-Terron,,,,,,0,StopArea:OCE87172171
+StopPoint:OCECar TER-87111567,Rodange.,,,,,,0,StopArea:OCE87111567
+StopPoint:OCETrain TER-80194266,gare de Landau-Pfalz-Hbf,,,,,,0,StopArea:OCE80194266
+StopPoint:OCETrain TER-87417444,gare de Franchet-D'espèrey,,,,,,0,StopArea:OCE87417444
+StopPoint:OCETrain TER-87172171,gare de Poix-Terron,,,,,,0,StopArea:OCE87172171
+StopPoint:OCETrain TER-87710731,gare de Ecole-Valentin,,,,,,0,StopArea:OCE87710731
