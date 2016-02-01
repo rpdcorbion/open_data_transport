@@ -1,5 +1,23 @@
 __author__ = 'rpdcorbion'
 import zipfile
+import urllib.request
+import json
+import os
+import shutil
+import ftplib as ftp
+
+def charge_json(api, auth=''):
+    req = urllib.request.Request(api)
+    if auth:
+        req.add_header('Authorization', auth)
+    try:
+        data=urllib.request.urlopen(req)
+        data=str(data.read(), encoding='utf-8')
+        data = json.loads(data)
+    except Exception as e:
+        print('ACCESS ERROR ON '+api)
+        data=''
+    return data
 
 def cellneedprotection(cell, separateurcsv):
     rep=False
@@ -52,3 +70,37 @@ def unzip(archive, destination):
         if write_file:
             file.write(data)
             file.close()
+
+def zip(archive, dossier):
+    file_list=[f for f in os.listdir(dossier) if os.path.isfile(os.path.join(dossier, f))]
+    zip_file=os.path.realpath(archive)
+    zip=zipfile.ZipFile(zip_file, "w", compression=zipfile.ZIP_DEFLATED, allowZip64=True)
+    for filename in file_list:
+        f=os.path.join(dossier,filename)
+        zip.write(os.path.realpath(f), os.path.basename(f))
+
+def download_file(url, destination):
+    print("Start Download : "+ url)
+    urllib.request.urlretrieve(url, os.path.realpath(destination))
+    print("End Download")
+
+def delete_folder(folder):
+    try:
+        if(os.path.isdir(folder)):
+            shutil.rmtree(folder)
+    except (KeyError, TypeError, ValueError):
+        print('ERROR ON DELETTE FOLDER '+folder)
+    print('DELETTE FOLDER OK '+folder)
+
+def send_ftp(host,user,password, fichier,repository):
+    print('connexion to '+host)
+    print(fichier)
+    print(repository)
+    connect = ftp.FTP(host,user,password) # on se connecte
+    file = open(fichier, 'rb')
+    connect.sendcmd('CWD '+repository)
+    connect.storbinary('STOR '+os.path.basename(fichier), file)
+    file.close()
+    etat = connect.getwelcome()
+    print("Status : ", etat)
+    connect.quit()

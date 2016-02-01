@@ -26,6 +26,8 @@ def merger(files,env_to_merge, dossier_work, separateurcsv=','):
     for environement in env_to_merge:
         if not os.path.exists(dossier_work+environement+'/'): os.makedirs(dossier_work+environement+'/')
         unzip(dossier_work+environement+'.zip', dossier_work+environement+'/')
+        ## delete dl zip
+        os.remove(dossier_work+environement+'.zip')
     for fichier in files:
         output = codecs.open(dossier_work+'new/'+fichier[0]+'.txt', 'w', 'utf-8')
         header=[]

@@ -19,10 +19,10 @@ feed_info = [("feed_publisher_name", 0),("feed_publisher_url", 0),("feed_lang", 
 files=[('agency',agency),('calendar',calendar),('calendar_dates',calendar_dates),('routes',routes),('stops',stops),('stop_times',stop_times),('trips',trips),('transfers',transfers)]
 ####///////////////////////////////////////////////////////////////
 
-env_to_merge=['fr-ne','fr-nw','fr-se','fr-sw','fr-idf']
-dossier_work='E:\\DATA\\temp\\merger\\'
+##env_to_merge=['fr-ne','fr-nw','fr-se','fr-sw','fr-idf']
+##dossier_work='E:\\DATA\\temp\\merger\\'
 
 
-merger(files,env_to_merge, dossier_work)
+##merger(files,env_to_merge, dossier_work)
 
 

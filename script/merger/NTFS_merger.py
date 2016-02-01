@@ -36,8 +36,8 @@ grid_rel_calendar_line=[('calendar_id', 1),('line_id', 0),('line_external_code',
 files=[('contributors',contributors), ('networks',networks), ('commercial_modes',commercial_modes), ('companies',companies), ('lines',lines), ('physical_modes',physical_modes), ('routes',routes), ('stop_times',stop_times), ('stops',stops), ('trips',trips), ('calendar',calendar), ('calendar_dates',calendar_dates), ('comments',comments), ('comment_links',comment_links), ('frequencies',frequencies), ('equipments',equipments), ('transfers',transfers), ('trip_properties',trip_properties), ('geometries',geometries), ('object_properties',object_properties), ('object_codes',object_codes), ('admin_stations',admin_stations), ('line_groups',line_groups), ('line_group_links',line_group_links), ('grid_calendars',grid_calendars), ('grid_exception_dates',grid_exception_dates), ('grid_periods',grid_periods), ('grid_rel_calendar_line',grid_rel_calendar_line)]
 ####///////////////////////////////////////////////////////////////
 
-env_to_merge=['NTFS_fr-ne','NTFS_fr-nw','NTFS_fr-se','NTFS_fr-sw','NTFS_fr-idf']
-dossier_work='E:\\DATA\\temp\\merger\\'
+#env_to_merge=['NTFS_fr-ne','NTFS_fr-nw','NTFS_fr-se','NTFS_fr-sw','NTFS_fr-idf']
+#dossier_work='E:\\DATA\\temp\\merger\\'
 
-merger(files,env_to_merge, dossier_work)
+#merger(files,env_to_merge, dossier_work)
 
