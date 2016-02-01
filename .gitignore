@@ -1,0 +1,5 @@
+data/
+*.pyc
+.idea/
+__init__.py
+private_config/
