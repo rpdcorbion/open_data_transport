@@ -5,6 +5,7 @@ import json
 import os
 import shutil
 import ftplib as ftp
+import math
 
 def charge_json(api, auth=''):
     req = urllib.request.Request(api)
@@ -104,3 +105,11 @@ def send_ftp(host,user,password, fichier,repository):
     etat = connect.getwelcome()
     print("Status : ", etat)
     connect.quit()
+
+def distance_wgs84(lat1, lon1, lat2, lon2):
+    R=6371
+    if lat1==lat2 and lon1==lon2:
+        dist1=0
+    else:
+        dist1=R*math.acos(math.cos(math.radians(lat1))*math.cos(math.radians(lat2))*math.cos(math.radians(lon2)-math.radians(lon1))+math.sin(math.radians(lat1))*math.sin(math.radians(lat2)))
+    return (dist1*1000)
