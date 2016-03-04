@@ -29,6 +29,7 @@ def merger(files,env_to_merge, dossier_work, separateurcsv=','):
         ## delete dl zip
         os.remove(dossier_work+environement+'.zip')
     for fichier in files:
+        print(environement+ '--' +fichier)
         output = codecs.open(dossier_work+'new/'+fichier[0]+'.txt', 'w', 'utf-8')
         header=[]
         for champs in fichier[1]:  # Write header
