@@ -29,7 +29,7 @@ def merger(files,env_to_merge, dossier_work, separateurcsv=','):
         ## delete dl zip
         os.remove(dossier_work+environement+'.zip')
     for fichier in files:
-        print(environement+ '--' +fichier)
+        print(environement+ '--' +fichier[0])
         output = codecs.open(dossier_work+'new/'+fichier[0]+'.txt', 'w', 'utf-8')
         header=[]
         for champs in fichier[1]:  # Write header
@@ -64,5 +64,4 @@ def merger(files,env_to_merge, dossier_work, separateurcsv=','):
                     count+=1
             else:
                 print("FILE "+environement+" - "+fichier[0]+" NOT EXIST")
-
 

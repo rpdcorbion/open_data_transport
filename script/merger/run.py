@@ -1,10 +1,11 @@
 __author__ = 'rpdcorbion'
 import sys, os
 sys.path.append("../lib")
-from functions import charge_json, download_file, zip, delete_folder, send_ftp
+from functions import charge_json, download_file, zip, delete_folder, send_ftp, delete_duplicate_stops
 sys.path.append("../..")
 import __root__
 import merger
+import shutil
 sys.path.append("../../private_config")
 from ftp import *
 
@@ -43,6 +44,8 @@ if __name__ == "__main__":
         print('ERROR TO DETERMINE FORMAT')
 
     merger(files,list_coverage, workspace)
+    new_stop_file=delete_duplicate_stops(workspace+'new/stops.txt')
+    shutil.move(new_stop_file,workspace+'new/stops.txt')
     try:
         zip(workspace+outname+'.zip',workspace+'new/')
     except Exception as e:

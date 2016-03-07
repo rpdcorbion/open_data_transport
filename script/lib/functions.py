@@ -6,6 +6,15 @@ import os
 import shutil
 import ftplib as ftp
 import math
+import codecs
+import csv
+
+
+def isinlist(value, list):
+    for item in list:
+        if item==value:
+            return True
+    return False
 
 def charge_json(api, auth=''):
     req = urllib.request.Request(api)
@@ -113,3 +122,27 @@ def distance_wgs84(lat1, lon1, lat2, lon2):
     else:
         dist1=R*math.acos(math.cos(math.radians(lat1))*math.cos(math.radians(lat2))*math.cos(math.radians(lon2)-math.radians(lon1))+math.sin(math.radians(lat1))*math.sin(math.radians(lat2)))
     return (dist1*1000)
+
+def delete_duplicate_stops(stops_file, separateurcsv=','):
+    file = codecs.open(stops_file, 'r', 'utf-8')
+    reader = csv.reader(file, delimiter=separateurcsv, quoting=csv.QUOTE_MINIMAL)
+    output = codecs.open(stops_file+'_temp.txt', 'w', 'utf-8')
+    count=0
+    list_of_stops_write=[]
+    ignore_stops=0
+    for row in reader:
+        if count==0:
+            stop_id_pos=findposition('stop_id',row)
+            ##coverage_pos=findposition('coverage',row)
+            temp=csv_list_to_raw_str(row)
+            output.write(temp)
+        else:
+            if not isinlist(row[stop_id_pos], list_of_stops_write):
+                list_of_stops_write.append(row[stop_id_pos])
+                temp=csv_list_to_raw_str(row)
+                output.write(temp)
+            else:
+                ignore_stops+=1
+        count+=1
+    print('ignore_stops : '+str(ignore_stops))
+    return stops_file+'_temp.txt'
